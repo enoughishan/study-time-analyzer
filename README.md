@@ -20,7 +20,7 @@ Subject-wise study time (Bar Chart)
 
 Daily study trend (Line Chart)
 
-🧑‍🎓 Beginner-friendly logic (no advanced Pandas tricks)
+🧑‍🎓 Beginner-friendly logic
 
 
 
