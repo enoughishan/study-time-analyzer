@@ -1,0 +1,2001 @@
+Date,Subject,Topic,Duration_Minutes
+2025-09-20,Mathematics,Geometry,161
+2025-09-20,Biology,Anatomy,148
+2025-09-20,Literature,Novel Study,143
+2025-09-20,Computer Science,Web Dev,137
+2025-09-20,Mathematics,Statistics,105
+2025-09-20,Biology,Cell Biology,27
+2025-09-20,Mathematics,Algebra,141
+2025-09-20,History,Industrial Revolution,132
+2025-09-20,Mathematics,Algebra,167
+2025-09-20,Mathematics,Algebra,74
+2025-09-20,Literature,Poetry,138
+2025-09-20,Literature,Modernism,179
+2025-09-20,Biology,Ecology,172
+2025-09-20,Physics,Optics,166
+2025-09-20,Mathematics,Statistics,128
+2025-09-20,Mathematics,Algebra,19
+2025-09-20,History,World War II,87
+2025-09-20,Mathematics,Algebra,109
+2025-09-20,Literature,Poetry,156
+2025-09-20,Mathematics,Statistics,35
+2025-09-20,Biology,Ecology,76
+2025-09-20,Literature,Novel Study,99
+2025-09-21,History,Ancient Rome,71
+2025-09-21,Mathematics,Algebra,133
+2025-09-21,Physics,Optics,121
+2025-09-21,History,Industrial Revolution,131
+2025-09-21,History,Cold War,57
+2025-09-21,History,Cold War,115
+2025-09-21,Mathematics,Statistics,170
+2025-09-21,Physics,Thermodynamics,16
+2025-09-21,Biology,Genetics,43
+2025-09-21,Mathematics,Calculus,130
+2025-09-21,Computer Science,Web Dev,92
+2025-09-21,Biology,Genetics,94
+2025-09-21,History,Industrial Revolution,23
+2025-09-21,History,World War II,121
+2025-09-21,Mathematics,Calculus,52
+2025-09-21,History,Ancient Rome,18
+2025-09-21,Biology,Ecology,15
+2025-09-21,Computer Science,Algorithms,133
+2025-09-22,Computer Science,Algorithms,179
+2025-09-22,Computer Science,AI/ML,105
+2025-09-22,Mathematics,Calculus,126
+2025-09-22,History,Ancient Rome,178
+2025-09-22,Computer Science,Data Structures,144
+2025-09-22,Biology,Cell Biology,119
+2025-09-22,Mathematics,Algebra,81
+2025-09-22,Mathematics,Algebra,150
+2025-09-22,Biology,Anatomy,69
+2025-09-22,History,Ancient Rome,62
+2025-09-22,Mathematics,Statistics,37
+2025-09-22,Physics,Electromagnetism,160
+2025-09-22,Literature,Poetry,37
+2025-09-22,Literature,Shakespeare,53
+2025-09-22,Physics,Electromagnetism,84
+2025-09-22,Physics,Mechanics,48
+2025-09-22,History,Cold War,55
+2025-09-22,Mathematics,Calculus,19
+2025-09-22,Biology,Cell Biology,82
+2025-09-23,Literature,Poetry,160
+2025-09-23,History,Industrial Revolution,110
+2025-09-23,Physics,Thermodynamics,50
+2025-09-23,Computer Science,Data Structures,74
+2025-09-23,Literature,Novel Study,24
+2025-09-23,Mathematics,Algebra,78
+2025-09-23,Physics,Optics,147
+2025-09-23,Physics,Thermodynamics,102
+2025-09-23,Computer Science,Data Structures,68
+2025-09-23,Literature,Modernism,88
+2025-09-23,Physics,Electromagnetism,70
+2025-09-23,Literature,Novel Study,117
+2025-09-23,Mathematics,Algebra,29
+2025-09-23,Computer Science,AI/ML,56
+2025-09-23,Computer Science,Data Structures,143
+2025-09-23,Mathematics,Statistics,143
+2025-09-23,Physics,Optics,43
+2025-09-23,Mathematics,Geometry,173
+2025-09-23,History,Ancient Rome,34
+2025-09-24,Computer Science,Data Structures,155
+2025-09-24,Physics,Optics,76
+2025-09-24,History,Ancient Rome,166
+2025-09-24,Physics,Mechanics,94
+2025-09-24,Physics,Mechanics,52
+2025-09-24,Literature,Poetry,36
+2025-09-24,Biology,Cell Biology,127
+2025-09-24,History,Industrial Revolution,64
+2025-09-24,Biology,Anatomy,75
+2025-09-24,Mathematics,Geometry,40
+2025-09-24,Computer Science,Algorithms,131
+2025-09-24,History,World War II,171
+2025-09-24,Literature,Novel Study,119
+2025-09-24,Physics,Mechanics,40
+2025-09-24,Literature,Shakespeare,65
+2025-09-24,Literature,Modernism,170
+2025-09-24,Literature,Shakespeare,158
+2025-09-24,Physics,Electromagnetism,83
+2025-09-25,Biology,Cell Biology,125
+2025-09-25,Physics,Electromagnetism,34
+2025-09-25,Literature,Modernism,136
+2025-09-25,Physics,Electromagnetism,100
+2025-09-25,Computer Science,Algorithms,87
+2025-09-25,History,Industrial Revolution,152
+2025-09-25,History,Ancient Rome,41
+2025-09-25,History,Ancient Rome,41
+2025-09-25,Literature,Shakespeare,134
+2025-09-25,Literature,Novel Study,85
+2025-09-25,Mathematics,Statistics,153
+2025-09-25,Mathematics,Algebra,37
+2025-09-25,History,Cold War,111
+2025-09-25,History,Cold War,135
+2025-09-25,Physics,Thermodynamics,26
+2025-09-25,Literature,Shakespeare,103
+2025-09-25,Biology,Cell Biology,78
+2025-09-25,Mathematics,Geometry,55
+2025-09-25,Literature,Poetry,138
+2025-09-25,History,Cold War,134
+2025-09-25,Physics,Mechanics,179
+2025-09-25,Literature,Novel Study,109
+2025-09-25,History,Industrial Revolution,54
+2025-09-25,Biology,Genetics,21
+2025-09-26,Literature,Poetry,135
+2025-09-26,Biology,Anatomy,57
+2025-09-26,Biology,Cell Biology,85
+2025-09-26,Computer Science,AI/ML,118
+2025-09-26,Mathematics,Geometry,132
+2025-09-26,History,World War II,82
+2025-09-26,Literature,Shakespeare,94
+2025-09-26,Biology,Anatomy,72
+2025-09-26,Literature,Shakespeare,74
+2025-09-26,Physics,Thermodynamics,72
+2025-09-26,Biology,Anatomy,142
+2025-09-26,Computer Science,AI/ML,117
+2025-09-26,History,World War II,39
+2025-09-26,History,World War II,155
+2025-09-26,Biology,Genetics,144
+2025-09-26,Biology,Anatomy,41
+2025-09-26,History,Cold War,165
+2025-09-26,Literature,Shakespeare,156
+2025-09-26,Mathematics,Calculus,155
+2025-09-26,History,Industrial Revolution,169
+2025-09-26,Physics,Thermodynamics,74
+2025-09-26,Biology,Anatomy,153
+2025-09-26,Mathematics,Geometry,16
+2025-09-27,Biology,Genetics,27
+2025-09-27,Biology,Cell Biology,92
+2025-09-27,Physics,Optics,131
+2025-09-27,Biology,Cell Biology,29
+2025-09-27,Biology,Genetics,61
+2025-09-27,Mathematics,Geometry,175
+2025-09-27,Physics,Mechanics,143
+2025-09-27,Computer Science,Web Dev,146
+2025-09-27,Physics,Optics,67
+2025-09-27,History,Cold War,143
+2025-09-27,Physics,Thermodynamics,146
+2025-09-27,Literature,Shakespeare,93
+2025-09-27,History,World War II,102
+2025-09-27,History,World War II,38
+2025-09-27,Biology,Anatomy,39
+2025-09-27,Biology,Ecology,31
+2025-09-27,Computer Science,Algorithms,162
+2025-09-27,Physics,Mechanics,122
+2025-09-27,History,Ancient Rome,125
+2025-09-27,Computer Science,Web Dev,115
+2025-09-27,History,Cold War,44
+2025-09-27,Biology,Ecology,140
+2025-09-28,History,Ancient Rome,59
+2025-09-28,Literature,Modernism,103
+2025-09-28,Literature,Modernism,154
+2025-09-28,Biology,Ecology,61
+2025-09-28,Biology,Ecology,151
+2025-09-28,Biology,Cell Biology,58
+2025-09-28,Mathematics,Geometry,58
+2025-09-28,Literature,Shakespeare,87
+2025-09-28,Computer Science,Web Dev,69
+2025-09-28,Mathematics,Calculus,133
+2025-09-28,Biology,Cell Biology,95
+2025-09-28,Mathematics,Algebra,55
+2025-09-28,Physics,Thermodynamics,139
+2025-09-28,History,World War II,80
+2025-09-28,Literature,Novel Study,23
+2025-09-28,History,World War II,66
+2025-09-28,History,Industrial Revolution,31
+2025-09-28,Mathematics,Geometry,24
+2025-09-28,Mathematics,Statistics,102
+2025-09-28,Physics,Thermodynamics,157
+2025-09-28,Literature,Poetry,120
+2025-09-29,History,World War II,31
+2025-09-29,Literature,Novel Study,135
+2025-09-29,Mathematics,Geometry,65
+2025-09-29,Physics,Thermodynamics,47
+2025-09-29,History,Industrial Revolution,108
+2025-09-29,Biology,Genetics,118
+2025-09-29,History,Cold War,154
+2025-09-29,History,Ancient Rome,155
+2025-09-29,Mathematics,Statistics,180
+2025-09-29,History,Ancient Rome,44
+2025-09-29,History,Cold War,18
+2025-09-29,Literature,Novel Study,20
+2025-09-29,Computer Science,Web Dev,58
+2025-09-29,Physics,Optics,92
+2025-09-29,History,Industrial Revolution,76
+2025-09-29,Computer Science,Web Dev,49
+2025-09-30,History,Ancient Rome,161
+2025-09-30,Computer Science,Data Structures,20
+2025-09-30,Mathematics,Calculus,46
+2025-09-30,History,World War II,139
+2025-09-30,Physics,Thermodynamics,23
+2025-09-30,Computer Science,Algorithms,95
+2025-09-30,Biology,Ecology,154
+2025-09-30,Literature,Poetry,149
+2025-09-30,Biology,Cell Biology,76
+2025-09-30,Mathematics,Algebra,58
+2025-09-30,Literature,Shakespeare,61
+2025-09-30,Biology,Genetics,83
+2025-09-30,Biology,Genetics,174
+2025-09-30,Biology,Genetics,74
+2025-09-30,History,Cold War,175
+2025-10-01,Mathematics,Algebra,95
+2025-10-01,Literature,Novel Study,128
+2025-10-01,Biology,Cell Biology,123
+2025-10-01,Mathematics,Statistics,45
+2025-10-01,Biology,Ecology,53
+2025-10-01,Computer Science,AI/ML,149
+2025-10-01,Computer Science,Algorithms,47
+2025-10-01,Computer Science,Algorithms,153
+2025-10-01,Biology,Ecology,15
+2025-10-01,Literature,Shakespeare,169
+2025-10-01,Mathematics,Calculus,39
+2025-10-01,Biology,Anatomy,72
+2025-10-01,History,Industrial Revolution,155
+2025-10-01,History,Cold War,120
+2025-10-01,History,Cold War,118
+2025-10-01,Literature,Novel Study,42
+2025-10-01,History,Cold War,167
+2025-10-01,Computer Science,Algorithms,118
+2025-10-01,Biology,Genetics,84
+2025-10-01,Computer Science,Algorithms,70
+2025-10-01,Physics,Mechanics,134
+2025-10-01,Physics,Mechanics,112
+2025-10-01,Biology,Cell Biology,117
+2025-10-01,Computer Science,AI/ML,60
+2025-10-01,History,Industrial Revolution,81
+2025-10-01,Computer Science,Algorithms,69
+2025-10-01,Literature,Novel Study,150
+2025-10-01,Biology,Anatomy,62
+2025-10-02,Mathematics,Statistics,124
+2025-10-02,Mathematics,Statistics,60
+2025-10-02,Biology,Ecology,160
+2025-10-02,Computer Science,AI/ML,85
+2025-10-02,Physics,Electromagnetism,123
+2025-10-02,Computer Science,AI/ML,120
+2025-10-02,Computer Science,Data Structures,42
+2025-10-02,History,World War II,138
+2025-10-02,Computer Science,Web Dev,156
+2025-10-02,Computer Science,Algorithms,149
+2025-10-02,Computer Science,AI/ML,156
+2025-10-02,History,Industrial Revolution,152
+2025-10-02,Mathematics,Geometry,126
+2025-10-02,Biology,Ecology,78
+2025-10-02,History,Ancient Rome,146
+2025-10-02,Physics,Mechanics,27
+2025-10-02,Physics,Mechanics,138
+2025-10-02,Physics,Optics,27
+2025-10-02,Computer Science,Data Structures,88
+2025-10-02,Literature,Shakespeare,41
+2025-10-02,Mathematics,Calculus,145
+2025-10-02,History,World War II,79
+2025-10-02,Physics,Optics,141
+2025-10-03,Biology,Genetics,64
+2025-10-03,Mathematics,Algebra,130
+2025-10-03,Computer Science,Algorithms,67
+2025-10-03,Physics,Optics,172
+2025-10-03,Mathematics,Algebra,78
+2025-10-03,History,World War II,77
+2025-10-03,Biology,Cell Biology,144
+2025-10-03,Biology,Anatomy,48
+2025-10-03,Physics,Optics,130
+2025-10-03,Biology,Cell Biology,93
+2025-10-03,History,Ancient Rome,80
+2025-10-03,History,Ancient Rome,150
+2025-10-03,Biology,Genetics,22
+2025-10-03,Computer Science,Data Structures,103
+2025-10-03,Computer Science,AI/ML,128
+2025-10-03,Biology,Genetics,66
+2025-10-03,History,World War II,49
+2025-10-03,Literature,Poetry,174
+2025-10-03,Computer Science,AI/ML,50
+2025-10-03,History,Ancient Rome,139
+2025-10-03,History,Ancient Rome,78
+2025-10-03,Mathematics,Geometry,151
+2025-10-03,History,Industrial Revolution,57
+2025-10-04,Mathematics,Calculus,86
+2025-10-04,Mathematics,Calculus,103
+2025-10-04,Biology,Cell Biology,86
+2025-10-04,History,Cold War,174
+2025-10-04,Mathematics,Algebra,179
+2025-10-04,Computer Science,Data Structures,149
+2025-10-04,Literature,Shakespeare,29
+2025-10-04,Biology,Ecology,45
+2025-10-04,History,Industrial Revolution,18
+2025-10-04,Physics,Optics,128
+2025-10-04,Literature,Shakespeare,27
+2025-10-04,Mathematics,Statistics,124
+2025-10-04,Literature,Poetry,64
+2025-10-04,Mathematics,Geometry,139
+2025-10-04,Computer Science,AI/ML,72
+2025-10-04,Mathematics,Statistics,39
+2025-10-04,History,Ancient Rome,83
+2025-10-04,Biology,Ecology,78
+2025-10-04,Physics,Electromagnetism,127
+2025-10-04,History,World War II,98
+2025-10-04,Literature,Novel Study,73
+2025-10-04,Biology,Genetics,76
+2025-10-04,History,Industrial Revolution,71
+2025-10-04,Computer Science,AI/ML,18
+2025-10-04,Computer Science,Web Dev,117
+2025-10-04,Mathematics,Calculus,115
+2025-10-04,Literature,Novel Study,49
+2025-10-04,Biology,Ecology,151
+2025-10-04,Physics,Electromagnetism,163
+2025-10-04,Literature,Modernism,29
+2025-10-04,Literature,Poetry,21
+2025-10-05,Biology,Genetics,108
+2025-10-05,Mathematics,Geometry,93
+2025-10-05,History,Ancient Rome,134
+2025-10-05,Literature,Shakespeare,86
+2025-10-05,Mathematics,Calculus,96
+2025-10-05,History,Cold War,110
+2025-10-05,Mathematics,Calculus,159
+2025-10-05,Mathematics,Algebra,90
+2025-10-05,Physics,Optics,61
+2025-10-05,Computer Science,AI/ML,111
+2025-10-05,Literature,Novel Study,43
+2025-10-05,Computer Science,Data Structures,173
+2025-10-05,Biology,Ecology,63
+2025-10-05,Biology,Ecology,123
+2025-10-05,Biology,Anatomy,146
+2025-10-05,Physics,Electromagnetism,85
+2025-10-05,Computer Science,Data Structures,24
+2025-10-05,Computer Science,Algorithms,53
+2025-10-05,Physics,Optics,164
+2025-10-05,Mathematics,Algebra,109
+2025-10-05,Literature,Shakespeare,70
+2025-10-06,Mathematics,Algebra,35
+2025-10-06,Biology,Anatomy,123
+2025-10-06,Biology,Ecology,61
+2025-10-06,History,Cold War,88
+2025-10-06,History,Cold War,179
+2025-10-06,Literature,Novel Study,94
+2025-10-06,Computer Science,Algorithms,160
+2025-10-06,Computer Science,AI/ML,146
+2025-10-06,Biology,Cell Biology,132
+2025-10-06,Mathematics,Statistics,135
+2025-10-06,Literature,Poetry,34
+2025-10-06,Computer Science,Data Structures,146
+2025-10-06,Biology,Cell Biology,35
+2025-10-06,Physics,Optics,110
+2025-10-06,Computer Science,Algorithms,163
+2025-10-06,Literature,Shakespeare,22
+2025-10-06,Mathematics,Algebra,169
+2025-10-06,History,Industrial Revolution,62
+2025-10-06,Computer Science,AI/ML,117
+2025-10-06,Biology,Ecology,115
+2025-10-06,Mathematics,Statistics,98
+2025-10-06,Physics,Thermodynamics,136
+2025-10-07,Physics,Optics,26
+2025-10-07,Mathematics,Algebra,26
+2025-10-07,History,Cold War,96
+2025-10-07,Literature,Poetry,68
+2025-10-07,Computer Science,Algorithms,117
+2025-10-07,Biology,Ecology,102
+2025-10-07,Computer Science,Data Structures,35
+2025-10-07,Physics,Thermodynamics,111
+2025-10-07,Literature,Novel Study,115
+2025-10-07,History,Industrial Revolution,158
+2025-10-07,Mathematics,Calculus,88
+2025-10-07,Literature,Novel Study,171
+2025-10-07,Mathematics,Calculus,170
+2025-10-07,Biology,Cell Biology,88
+2025-10-07,History,World War II,84
+2025-10-07,History,Cold War,127
+2025-10-07,Mathematics,Statistics,125
+2025-10-07,History,World War II,96
+2025-10-08,Physics,Optics,130
+2025-10-08,Computer Science,Web Dev,63
+2025-10-08,Computer Science,Algorithms,76
+2025-10-08,Literature,Modernism,81
+2025-10-08,Biology,Genetics,94
+2025-10-08,History,World War II,58
+2025-10-08,Mathematics,Calculus,149
+2025-10-08,Mathematics,Geometry,101
+2025-10-08,Literature,Poetry,140
+2025-10-08,Literature,Shakespeare,123
+2025-10-08,Biology,Genetics,133
+2025-10-08,Biology,Anatomy,96
+2025-10-08,Physics,Electromagnetism,151
+2025-10-08,Literature,Modernism,99
+2025-10-08,Literature,Shakespeare,122
+2025-10-08,Physics,Thermodynamics,89
+2025-10-09,Biology,Ecology,170
+2025-10-09,Computer Science,Data Structures,84
+2025-10-09,Computer Science,Algorithms,43
+2025-10-09,History,Industrial Revolution,149
+2025-10-09,Mathematics,Geometry,112
+2025-10-09,Physics,Thermodynamics,163
+2025-10-09,Computer Science,Data Structures,162
+2025-10-09,Computer Science,Algorithms,133
+2025-10-09,Computer Science,Data Structures,158
+2025-10-09,Mathematics,Algebra,98
+2025-10-09,Biology,Anatomy,114
+2025-10-09,Biology,Anatomy,155
+2025-10-09,Biology,Cell Biology,52
+2025-10-09,History,Cold War,97
+2025-10-09,History,World War II,67
+2025-10-09,Literature,Modernism,81
+2025-10-09,Computer Science,Algorithms,136
+2025-10-09,Literature,Shakespeare,145
+2025-10-09,Computer Science,Web Dev,95
+2025-10-09,Mathematics,Statistics,130
+2025-10-09,Physics,Thermodynamics,158
+2025-10-10,Literature,Shakespeare,63
+2025-10-10,History,Industrial Revolution,158
+2025-10-10,History,World War II,173
+2025-10-10,Physics,Thermodynamics,166
+2025-10-10,Literature,Novel Study,39
+2025-10-10,Literature,Novel Study,69
+2025-10-10,Computer Science,Algorithms,15
+2025-10-10,Biology,Anatomy,19
+2025-10-10,Mathematics,Geometry,25
+2025-10-10,History,World War II,81
+2025-10-10,History,World War II,59
+2025-10-10,Biology,Genetics,153
+2025-10-10,Literature,Novel Study,70
+2025-10-10,Computer Science,Data Structures,65
+2025-10-10,Physics,Optics,34
+2025-10-10,History,Ancient Rome,35
+2025-10-10,Literature,Shakespeare,42
+2025-10-11,Computer Science,Data Structures,49
+2025-10-11,Mathematics,Geometry,81
+2025-10-11,Mathematics,Geometry,65
+2025-10-11,Mathematics,Geometry,73
+2025-10-11,Computer Science,Data Structures,105
+2025-10-11,Computer Science,Data Structures,17
+2025-10-11,History,World War II,160
+2025-10-11,History,Industrial Revolution,110
+2025-10-11,History,Ancient Rome,161
+2025-10-11,Biology,Ecology,66
+2025-10-11,History,Cold War,128
+2025-10-11,Mathematics,Calculus,156
+2025-10-11,Literature,Novel Study,168
+2025-10-11,Literature,Shakespeare,97
+2025-10-11,Mathematics,Statistics,62
+2025-10-11,Biology,Anatomy,51
+2025-10-11,Computer Science,AI/ML,30
+2025-10-11,Literature,Novel Study,23
+2025-10-11,Biology,Anatomy,48
+2025-10-11,Biology,Genetics,90
+2025-10-11,Computer Science,Data Structures,65
+2025-10-11,Physics,Thermodynamics,179
+2025-10-11,Biology,Genetics,155
+2025-10-11,Literature,Poetry,77
+2025-10-11,Literature,Shakespeare,96
+2025-10-11,History,Ancient Rome,94
+2025-10-11,Mathematics,Algebra,163
+2025-10-12,Mathematics,Calculus,94
+2025-10-12,History,Ancient Rome,124
+2025-10-12,History,Industrial Revolution,165
+2025-10-12,Literature,Shakespeare,54
+2025-10-12,Literature,Novel Study,54
+2025-10-12,Biology,Anatomy,80
+2025-10-12,Computer Science,Web Dev,46
+2025-10-12,History,Ancient Rome,72
+2025-10-12,Literature,Modernism,74
+2025-10-12,Physics,Electromagnetism,117
+2025-10-12,Computer Science,Web Dev,45
+2025-10-12,Computer Science,Web Dev,104
+2025-10-12,Physics,Thermodynamics,50
+2025-10-12,Biology,Genetics,148
+2025-10-12,Physics,Optics,148
+2025-10-12,Biology,Ecology,66
+2025-10-12,Mathematics,Calculus,60
+2025-10-12,Physics,Mechanics,169
+2025-10-12,Mathematics,Statistics,169
+2025-10-12,Biology,Genetics,127
+2025-10-13,Mathematics,Geometry,159
+2025-10-13,Mathematics,Calculus,71
+2025-10-13,Computer Science,Web Dev,132
+2025-10-13,Physics,Mechanics,152
+2025-10-13,Literature,Novel Study,28
+2025-10-13,Computer Science,Algorithms,54
+2025-10-13,Biology,Ecology,121
+2025-10-13,Literature,Novel Study,109
+2025-10-13,Computer Science,Data Structures,28
+2025-10-13,Mathematics,Algebra,74
+2025-10-13,Biology,Anatomy,104
+2025-10-13,Mathematics,Calculus,138
+2025-10-13,History,Ancient Rome,131
+2025-10-13,Biology,Cell Biology,131
+2025-10-13,Literature,Modernism,54
+2025-10-13,Computer Science,Data Structures,180
+2025-10-13,Biology,Ecology,111
+2025-10-13,Computer Science,Data Structures,169
+2025-10-13,Computer Science,Web Dev,58
+2025-10-13,Literature,Novel Study,50
+2025-10-13,Biology,Ecology,178
+2025-10-13,Mathematics,Calculus,151
+2025-10-13,Literature,Shakespeare,98
+2025-10-13,Physics,Electromagnetism,82
+2025-10-13,Biology,Ecology,48
+2025-10-13,Literature,Novel Study,17
+2025-10-13,Physics,Mechanics,106
+2025-10-13,Physics,Thermodynamics,23
+2025-10-13,History,Industrial Revolution,89
+2025-10-13,History,Ancient Rome,43
+2025-10-13,Computer Science,Algorithms,75
+2025-10-14,Literature,Modernism,122
+2025-10-14,Literature,Modernism,52
+2025-10-14,Computer Science,Algorithms,49
+2025-10-14,Physics,Electromagnetism,143
+2025-10-14,Physics,Electromagnetism,99
+2025-10-14,History,Industrial Revolution,71
+2025-10-14,Biology,Cell Biology,158
+2025-10-14,Literature,Modernism,171
+2025-10-14,Computer Science,Algorithms,68
+2025-10-14,Literature,Modernism,61
+2025-10-14,Computer Science,Web Dev,132
+2025-10-14,Biology,Ecology,27
+2025-10-14,Physics,Optics,179
+2025-10-14,Mathematics,Algebra,55
+2025-10-14,Computer Science,Algorithms,149
+2025-10-14,Mathematics,Algebra,43
+2025-10-14,Physics,Thermodynamics,162
+2025-10-14,History,World War II,83
+2025-10-14,Literature,Shakespeare,25
+2025-10-14,Biology,Cell Biology,110
+2025-10-14,Physics,Thermodynamics,60
+2025-10-14,Physics,Optics,115
+2025-10-15,Literature,Shakespeare,19
+2025-10-15,History,Cold War,107
+2025-10-15,History,Cold War,177
+2025-10-15,Biology,Genetics,84
+2025-10-15,Mathematics,Algebra,47
+2025-10-15,Computer Science,Data Structures,141
+2025-10-15,Literature,Poetry,85
+2025-10-15,Biology,Cell Biology,108
+2025-10-15,Literature,Novel Study,115
+2025-10-15,Physics,Optics,30
+2025-10-15,Literature,Shakespeare,96
+2025-10-15,Literature,Shakespeare,168
+2025-10-15,Mathematics,Geometry,89
+2025-10-15,History,Ancient Rome,126
+2025-10-15,History,World War II,146
+2025-10-15,Computer Science,Algorithms,169
+2025-10-15,Literature,Poetry,83
+2025-10-15,Biology,Cell Biology,127
+2025-10-15,Computer Science,Web Dev,119
+2025-10-15,Literature,Poetry,112
+2025-10-15,Biology,Ecology,129
+2025-10-15,Physics,Mechanics,55
+2025-10-15,Biology,Anatomy,174
+2025-10-15,Literature,Poetry,112
+2025-10-15,Computer Science,AI/ML,67
+2025-10-15,Physics,Electromagnetism,71
+2025-10-16,History,Industrial Revolution,73
+2025-10-16,Mathematics,Calculus,64
+2025-10-16,Literature,Modernism,93
+2025-10-16,Computer Science,Data Structures,83
+2025-10-16,Computer Science,Data Structures,71
+2025-10-16,Physics,Mechanics,60
+2025-10-16,Biology,Anatomy,169
+2025-10-16,History,Cold War,161
+2025-10-16,History,Cold War,91
+2025-10-16,Biology,Ecology,66
+2025-10-16,Physics,Mechanics,15
+2025-10-16,Computer Science,Data Structures,32
+2025-10-16,Mathematics,Algebra,64
+2025-10-16,History,Cold War,137
+2025-10-16,Biology,Anatomy,123
+2025-10-16,Physics,Thermodynamics,28
+2025-10-16,Mathematics,Calculus,27
+2025-10-16,Physics,Thermodynamics,84
+2025-10-16,Computer Science,Web Dev,169
+2025-10-16,Computer Science,Web Dev,166
+2025-10-17,Literature,Modernism,46
+2025-10-17,Literature,Novel Study,17
+2025-10-17,Literature,Poetry,40
+2025-10-17,Physics,Mechanics,101
+2025-10-17,History,Industrial Revolution,155
+2025-10-17,Computer Science,AI/ML,99
+2025-10-17,History,Ancient Rome,142
+2025-10-17,Literature,Novel Study,132
+2025-10-17,Mathematics,Calculus,94
+2025-10-17,History,Ancient Rome,38
+2025-10-17,Literature,Novel Study,21
+2025-10-17,History,Industrial Revolution,34
+2025-10-17,Physics,Mechanics,27
+2025-10-17,Biology,Cell Biology,125
+2025-10-17,Literature,Modernism,101
+2025-10-17,Physics,Optics,122
+2025-10-17,History,Ancient Rome,84
+2025-10-17,Computer Science,Data Structures,87
+2025-10-17,Mathematics,Calculus,143
+2025-10-17,Biology,Ecology,77
+2025-10-17,Literature,Poetry,84
+2025-10-18,History,Cold War,65
+2025-10-18,Biology,Cell Biology,32
+2025-10-18,Biology,Anatomy,42
+2025-10-18,Literature,Modernism,141
+2025-10-18,Physics,Thermodynamics,82
+2025-10-18,Mathematics,Geometry,121
+2025-10-18,Literature,Novel Study,62
+2025-10-18,Literature,Shakespeare,95
+2025-10-18,Physics,Mechanics,39
+2025-10-18,Biology,Cell Biology,86
+2025-10-18,Biology,Ecology,128
+2025-10-18,Biology,Cell Biology,133
+2025-10-18,Physics,Optics,36
+2025-10-18,Mathematics,Calculus,33
+2025-10-18,Computer Science,Algorithms,85
+2025-10-18,Computer Science,Algorithms,108
+2025-10-18,Physics,Electromagnetism,58
+2025-10-18,Mathematics,Geometry,131
+2025-10-18,Biology,Ecology,104
+2025-10-18,Computer Science,Algorithms,131
+2025-10-18,Mathematics,Geometry,17
+2025-10-18,Mathematics,Calculus,145
+2025-10-18,Biology,Genetics,78
+2025-10-18,History,World War II,88
+2025-10-18,Literature,Novel Study,142
+2025-10-19,Biology,Genetics,46
+2025-10-19,Literature,Novel Study,38
+2025-10-19,Physics,Electromagnetism,166
+2025-10-19,Computer Science,Data Structures,38
+2025-10-19,Biology,Cell Biology,89
+2025-10-19,Mathematics,Statistics,102
+2025-10-19,Biology,Anatomy,27
+2025-10-19,Literature,Novel Study,148
+2025-10-19,Physics,Thermodynamics,59
+2025-10-19,Biology,Ecology,173
+2025-10-19,Mathematics,Calculus,89
+2025-10-19,Literature,Novel Study,116
+2025-10-19,Computer Science,Data Structures,116
+2025-10-19,Literature,Shakespeare,67
+2025-10-19,Literature,Shakespeare,144
+2025-10-19,Physics,Mechanics,70
+2025-10-19,Mathematics,Statistics,27
+2025-10-19,Biology,Anatomy,65
+2025-10-19,Literature,Novel Study,127
+2025-10-19,Biology,Cell Biology,38
+2025-10-19,Physics,Thermodynamics,144
+2025-10-19,Literature,Poetry,89
+2025-10-19,Literature,Modernism,169
+2025-10-20,Physics,Electromagnetism,166
+2025-10-20,Mathematics,Geometry,75
+2025-10-20,Computer Science,Web Dev,98
+2025-10-20,Biology,Anatomy,104
+2025-10-20,Biology,Cell Biology,131
+2025-10-20,Computer Science,Algorithms,120
+2025-10-20,Mathematics,Geometry,64
+2025-10-20,Literature,Shakespeare,128
+2025-10-20,Mathematics,Algebra,150
+2025-10-20,Mathematics,Calculus,166
+2025-10-20,Physics,Thermodynamics,125
+2025-10-20,History,Ancient Rome,16
+2025-10-20,History,Industrial Revolution,125
+2025-10-20,Biology,Cell Biology,113
+2025-10-20,Physics,Optics,139
+2025-10-20,Biology,Ecology,152
+2025-10-20,Biology,Cell Biology,174
+2025-10-20,Mathematics,Statistics,146
+2025-10-20,Physics,Thermodynamics,178
+2025-10-20,Biology,Cell Biology,144
+2025-10-20,History,Cold War,28
+2025-10-20,History,Cold War,17
+2025-10-20,Mathematics,Calculus,81
+2025-10-20,History,Industrial Revolution,114
+2025-10-21,History,Ancient Rome,79
+2025-10-21,History,World War II,115
+2025-10-21,Biology,Ecology,83
+2025-10-21,Biology,Genetics,65
+2025-10-21,History,World War II,172
+2025-10-21,Physics,Mechanics,127
+2025-10-21,Literature,Poetry,36
+2025-10-21,Computer Science,AI/ML,16
+2025-10-21,History,Cold War,50
+2025-10-21,Computer Science,AI/ML,19
+2025-10-21,History,World War II,94
+2025-10-21,Computer Science,Algorithms,54
+2025-10-21,Biology,Cell Biology,93
+2025-10-21,Physics,Optics,93
+2025-10-21,History,Industrial Revolution,107
+2025-10-21,Mathematics,Geometry,136
+2025-10-21,Mathematics,Algebra,58
+2025-10-21,Literature,Shakespeare,68
+2025-10-21,Mathematics,Statistics,105
+2025-10-21,Computer Science,Web Dev,116
+2025-10-22,History,Industrial Revolution,130
+2025-10-22,Literature,Novel Study,46
+2025-10-22,Physics,Thermodynamics,99
+2025-10-22,Literature,Novel Study,43
+2025-10-22,History,Cold War,133
+2025-10-22,Biology,Anatomy,146
+2025-10-22,Literature,Modernism,81
+2025-10-22,History,World War II,134
+2025-10-22,Physics,Optics,95
+2025-10-22,Computer Science,Data Structures,74
+2025-10-22,Physics,Mechanics,104
+2025-10-22,Mathematics,Calculus,51
+2025-10-22,History,Industrial Revolution,37
+2025-10-22,Mathematics,Statistics,155
+2025-10-22,Physics,Electromagnetism,43
+2025-10-22,Physics,Electromagnetism,23
+2025-10-22,Computer Science,Data Structures,96
+2025-10-22,History,Cold War,86
+2025-10-22,Mathematics,Geometry,100
+2025-10-22,Literature,Novel Study,63
+2025-10-22,Literature,Poetry,26
+2025-10-22,Physics,Optics,16
+2025-10-22,Literature,Poetry,159
+2025-10-22,Computer Science,Data Structures,99
+2025-10-23,Physics,Mechanics,27
+2025-10-23,Computer Science,Data Structures,141
+2025-10-23,Physics,Electromagnetism,134
+2025-10-23,Biology,Cell Biology,100
+2025-10-23,Computer Science,Web Dev,36
+2025-10-23,Mathematics,Calculus,43
+2025-10-23,History,Industrial Revolution,126
+2025-10-23,Mathematics,Geometry,63
+2025-10-23,Mathematics,Statistics,112
+2025-10-23,Mathematics,Geometry,97
+2025-10-23,Physics,Optics,97
+2025-10-23,Literature,Novel Study,87
+2025-10-23,Biology,Cell Biology,16
+2025-10-23,Biology,Genetics,152
+2025-10-23,History,Ancient Rome,106
+2025-10-23,Literature,Novel Study,130
+2025-10-23,Physics,Thermodynamics,103
+2025-10-23,Biology,Cell Biology,134
+2025-10-23,Biology,Anatomy,25
+2025-10-23,Biology,Anatomy,97
+2025-10-23,Computer Science,Algorithms,166
+2025-10-23,Literature,Modernism,19
+2025-10-24,Physics,Mechanics,70
+2025-10-24,Computer Science,AI/ML,76
+2025-10-24,Physics,Electromagnetism,61
+2025-10-24,Mathematics,Algebra,138
+2025-10-24,History,World War II,16
+2025-10-24,Mathematics,Algebra,52
+2025-10-24,Literature,Modernism,132
+2025-10-24,Biology,Genetics,138
+2025-10-24,Literature,Shakespeare,94
+2025-10-24,Computer Science,Algorithms,75
+2025-10-24,Biology,Cell Biology,68
+2025-10-24,Computer Science,Algorithms,103
+2025-10-24,Mathematics,Geometry,148
+2025-10-24,Physics,Thermodynamics,25
+2025-10-24,Biology,Ecology,95
+2025-10-24,Physics,Electromagnetism,151
+2025-10-24,Biology,Anatomy,16
+2025-10-24,History,World War II,63
+2025-10-24,History,Industrial Revolution,133
+2025-10-24,Mathematics,Algebra,92
+2025-10-24,Computer Science,Web Dev,160
+2025-10-25,Mathematics,Geometry,89
+2025-10-25,Mathematics,Algebra,152
+2025-10-25,History,Cold War,166
+2025-10-25,History,World War II,164
+2025-10-25,Mathematics,Algebra,77
+2025-10-25,Physics,Thermodynamics,64
+2025-10-25,Biology,Anatomy,70
+2025-10-25,Physics,Thermodynamics,104
+2025-10-25,Biology,Cell Biology,163
+2025-10-25,Literature,Poetry,110
+2025-10-25,History,Cold War,74
+2025-10-25,Physics,Electromagnetism,33
+2025-10-25,Literature,Poetry,154
+2025-10-25,Biology,Anatomy,101
+2025-10-25,Mathematics,Geometry,142
+2025-10-25,Mathematics,Algebra,71
+2025-10-25,Mathematics,Geometry,63
+2025-10-25,History,Industrial Revolution,120
+2025-10-25,Physics,Optics,57
+2025-10-25,Literature,Modernism,72
+2025-10-25,Literature,Novel Study,139
+2025-10-26,Computer Science,Web Dev,61
+2025-10-26,Biology,Ecology,50
+2025-10-26,Mathematics,Algebra,129
+2025-10-26,Biology,Anatomy,27
+2025-10-26,Mathematics,Calculus,152
+2025-10-26,History,Cold War,145
+2025-10-26,Mathematics,Algebra,123
+2025-10-26,Physics,Optics,57
+2025-10-26,Physics,Thermodynamics,155
+2025-10-26,Mathematics,Algebra,41
+2025-10-26,Computer Science,Web Dev,17
+2025-10-26,Mathematics,Geometry,43
+2025-10-26,Mathematics,Statistics,151
+2025-10-26,History,Cold War,157
+2025-10-26,Mathematics,Calculus,24
+2025-10-26,History,World War II,86
+2025-10-26,Mathematics,Calculus,87
+2025-10-26,Physics,Electromagnetism,107
+2025-10-26,History,Ancient Rome,116
+2025-10-26,Literature,Modernism,124
+2025-10-26,Mathematics,Statistics,173
+2025-10-26,History,Ancient Rome,58
+2025-10-26,Literature,Shakespeare,107
+2025-10-26,History,Industrial Revolution,178
+2025-10-26,Computer Science,Algorithms,124
+2025-10-26,History,Ancient Rome,121
+2025-10-26,Biology,Ecology,62
+2025-10-27,History,Industrial Revolution,82
+2025-10-27,Biology,Anatomy,91
+2025-10-27,Mathematics,Calculus,170
+2025-10-27,Biology,Anatomy,119
+2025-10-27,Mathematics,Statistics,44
+2025-10-27,Physics,Thermodynamics,71
+2025-10-27,Physics,Mechanics,72
+2025-10-27,Physics,Thermodynamics,109
+2025-10-27,Biology,Anatomy,152
+2025-10-27,History,Industrial Revolution,128
+2025-10-27,Mathematics,Algebra,167
+2025-10-27,History,Cold War,138
+2025-10-27,Literature,Modernism,30
+2025-10-27,History,Cold War,168
+2025-10-27,Biology,Genetics,60
+2025-10-27,Mathematics,Algebra,122
+2025-10-27,History,Cold War,139
+2025-10-27,Computer Science,Algorithms,138
+2025-10-27,Physics,Electromagnetism,143
+2025-10-27,History,Ancient Rome,76
+2025-10-27,Mathematics,Algebra,27
+2025-10-27,Mathematics,Algebra,125
+2025-10-28,Physics,Thermodynamics,36
+2025-10-28,Biology,Anatomy,46
+2025-10-28,History,World War II,173
+2025-10-28,Literature,Poetry,28
+2025-10-28,Physics,Thermodynamics,26
+2025-10-28,Computer Science,Data Structures,80
+2025-10-28,Mathematics,Calculus,166
+2025-10-28,History,Cold War,178
+2025-10-28,History,Industrial Revolution,131
+2025-10-28,Mathematics,Geometry,129
+2025-10-28,Biology,Genetics,70
+2025-10-28,Physics,Thermodynamics,169
+2025-10-28,Mathematics,Statistics,64
+2025-10-28,Biology,Ecology,142
+2025-10-28,Physics,Thermodynamics,150
+2025-10-28,Computer Science,Data Structures,49
+2025-10-28,Physics,Optics,124
+2025-10-28,Computer Science,Data Structures,159
+2025-10-28,Mathematics,Calculus,172
+2025-10-28,Physics,Optics,102
+2025-10-28,History,Cold War,58
+2025-10-28,History,Cold War,144
+2025-10-28,Mathematics,Geometry,139
+2025-10-28,Physics,Mechanics,50
+2025-10-28,Biology,Cell Biology,152
+2025-10-28,Computer Science,Algorithms,35
+2025-10-28,Literature,Shakespeare,163
+2025-10-28,Literature,Poetry,83
+2025-10-29,Literature,Novel Study,138
+2025-10-29,Literature,Shakespeare,175
+2025-10-29,Computer Science,Data Structures,180
+2025-10-29,Computer Science,Web Dev,173
+2025-10-29,Mathematics,Statistics,109
+2025-10-29,Biology,Ecology,25
+2025-10-29,History,Industrial Revolution,22
+2025-10-29,Literature,Modernism,116
+2025-10-29,Mathematics,Algebra,153
+2025-10-29,Physics,Electromagnetism,80
+2025-10-29,History,World War II,42
+2025-10-29,Literature,Poetry,23
+2025-10-29,Literature,Poetry,85
+2025-10-29,Biology,Cell Biology,174
+2025-10-29,Computer Science,Data Structures,52
+2025-10-29,Physics,Electromagnetism,62
+2025-10-29,Physics,Optics,57
+2025-10-29,Biology,Ecology,95
+2025-10-29,History,Cold War,111
+2025-10-29,Mathematics,Geometry,167
+2025-10-29,Computer Science,Data Structures,176
+2025-10-29,Physics,Thermodynamics,84
+2025-10-29,History,Ancient Rome,56
+2025-10-29,Literature,Shakespeare,96
+2025-10-30,Mathematics,Algebra,140
+2025-10-30,Computer Science,Web Dev,143
+2025-10-30,Biology,Genetics,116
+2025-10-30,Computer Science,Web Dev,163
+2025-10-30,History,Industrial Revolution,174
+2025-10-30,Physics,Optics,159
+2025-10-30,Computer Science,Web Dev,136
+2025-10-30,Literature,Poetry,113
+2025-10-30,Physics,Mechanics,77
+2025-10-30,Computer Science,Algorithms,166
+2025-10-30,Biology,Anatomy,38
+2025-10-30,Mathematics,Geometry,107
+2025-10-30,Mathematics,Geometry,29
+2025-10-30,Biology,Ecology,88
+2025-10-30,Mathematics,Statistics,40
+2025-10-30,History,Industrial Revolution,34
+2025-10-30,Physics,Thermodynamics,113
+2025-10-30,Literature,Novel Study,126
+2025-10-30,Computer Science,Data Structures,136
+2025-10-30,History,Ancient Rome,30
+2025-10-30,Physics,Electromagnetism,68
+2025-10-30,Mathematics,Geometry,15
+2025-10-30,Computer Science,Web Dev,168
+2025-10-30,Computer Science,Data Structures,73
+2025-10-31,Literature,Poetry,113
+2025-10-31,Mathematics,Statistics,54
+2025-10-31,Mathematics,Statistics,45
+2025-10-31,History,World War II,68
+2025-10-31,Computer Science,Web Dev,16
+2025-10-31,Physics,Electromagnetism,77
+2025-10-31,Physics,Optics,174
+2025-10-31,Biology,Anatomy,65
+2025-10-31,Literature,Poetry,93
+2025-10-31,Computer Science,Data Structures,131
+2025-10-31,Computer Science,Web Dev,142
+2025-10-31,Physics,Electromagnetism,92
+2025-10-31,Mathematics,Calculus,168
+2025-10-31,Computer Science,AI/ML,29
+2025-10-31,Physics,Optics,112
+2025-10-31,Physics,Mechanics,117
+2025-10-31,Computer Science,Algorithms,88
+2025-10-31,Computer Science,Algorithms,69
+2025-10-31,Computer Science,Web Dev,82
+2025-10-31,Mathematics,Calculus,177
+2025-10-31,Literature,Poetry,161
+2025-10-31,Literature,Shakespeare,101
+2025-10-31,Computer Science,Data Structures,163
+2025-10-31,Biology,Ecology,33
+2025-10-31,Literature,Novel Study,74
+2025-10-31,Biology,Ecology,134
+2025-10-31,Literature,Poetry,138
+2025-10-31,Literature,Novel Study,71
+2025-11-01,Biology,Cell Biology,118
+2025-11-01,Physics,Mechanics,64
+2025-11-01,Literature,Modernism,162
+2025-11-01,Literature,Shakespeare,153
+2025-11-01,Computer Science,Data Structures,80
+2025-11-01,Computer Science,Algorithms,100
+2025-11-01,Computer Science,Data Structures,108
+2025-11-01,Computer Science,Data Structures,18
+2025-11-01,History,Cold War,138
+2025-11-01,Biology,Anatomy,158
+2025-11-01,Literature,Shakespeare,15
+2025-11-01,Literature,Shakespeare,56
+2025-11-01,Mathematics,Algebra,156
+2025-11-01,Biology,Anatomy,68
+2025-11-01,Biology,Cell Biology,158
+2025-11-01,Mathematics,Algebra,162
+2025-11-01,Computer Science,Algorithms,43
+2025-11-01,Literature,Novel Study,99
+2025-11-01,History,World War II,52
+2025-11-01,History,Cold War,44
+2025-11-01,History,Industrial Revolution,16
+2025-11-01,Physics,Thermodynamics,94
+2025-11-01,History,Industrial Revolution,70
+2025-11-01,Literature,Shakespeare,110
+2025-11-01,Mathematics,Algebra,72
+2025-11-01,Mathematics,Algebra,19
+2025-11-02,Physics,Thermodynamics,117
+2025-11-02,Biology,Cell Biology,70
+2025-11-02,History,Cold War,25
+2025-11-02,Physics,Electromagnetism,57
+2025-11-02,Physics,Optics,168
+2025-11-02,Biology,Anatomy,161
+2025-11-02,Computer Science,Web Dev,34
+2025-11-02,Mathematics,Statistics,171
+2025-11-02,Biology,Anatomy,38
+2025-11-02,Physics,Optics,116
+2025-11-02,Mathematics,Geometry,90
+2025-11-02,Biology,Genetics,167
+2025-11-02,Biology,Cell Biology,20
+2025-11-02,Physics,Thermodynamics,106
+2025-11-02,Computer Science,AI/ML,94
+2025-11-02,Mathematics,Algebra,87
+2025-11-02,Physics,Optics,53
+2025-11-02,Mathematics,Statistics,45
+2025-11-02,Computer Science,AI/ML,151
+2025-11-02,History,World War II,131
+2025-11-02,History,World War II,47
+2025-11-02,History,World War II,56
+2025-11-02,Biology,Anatomy,80
+2025-11-03,Biology,Anatomy,119
+2025-11-03,Literature,Shakespeare,154
+2025-11-03,Literature,Novel Study,43
+2025-11-03,Physics,Electromagnetism,114
+2025-11-03,Computer Science,AI/ML,62
+2025-11-03,Physics,Optics,158
+2025-11-03,Biology,Cell Biology,116
+2025-11-03,Literature,Modernism,157
+2025-11-03,Physics,Optics,158
+2025-11-03,Biology,Cell Biology,52
+2025-11-03,Mathematics,Algebra,82
+2025-11-03,Biology,Ecology,90
+2025-11-03,Mathematics,Algebra,44
+2025-11-03,Biology,Anatomy,152
+2025-11-03,History,World War II,44
+2025-11-03,Computer Science,Web Dev,66
+2025-11-03,Computer Science,AI/ML,46
+2025-11-03,Biology,Genetics,21
+2025-11-03,Biology,Cell Biology,172
+2025-11-03,Literature,Modernism,119
+2025-11-03,Biology,Ecology,44
+2025-11-04,History,World War II,154
+2025-11-04,Biology,Genetics,51
+2025-11-04,History,Ancient Rome,170
+2025-11-04,Physics,Thermodynamics,85
+2025-11-04,Physics,Optics,54
+2025-11-04,History,Ancient Rome,170
+2025-11-04,Literature,Modernism,167
+2025-11-04,Mathematics,Statistics,179
+2025-11-04,Computer Science,Algorithms,167
+2025-11-04,Mathematics,Statistics,76
+2025-11-04,Literature,Poetry,127
+2025-11-04,Computer Science,Web Dev,168
+2025-11-04,Computer Science,Web Dev,72
+2025-11-04,Literature,Modernism,150
+2025-11-04,Biology,Ecology,31
+2025-11-04,Computer Science,Web Dev,31
+2025-11-04,Computer Science,Algorithms,40
+2025-11-04,Biology,Anatomy,25
+2025-11-04,Physics,Mechanics,26
+2025-11-04,Physics,Thermodynamics,62
+2025-11-04,Computer Science,Web Dev,162
+2025-11-05,Physics,Thermodynamics,28
+2025-11-05,Physics,Mechanics,42
+2025-11-05,Computer Science,Algorithms,99
+2025-11-05,Literature,Poetry,56
+2025-11-05,Mathematics,Algebra,64
+2025-11-05,Computer Science,Data Structures,17
+2025-11-05,Computer Science,Algorithms,96
+2025-11-05,Biology,Anatomy,18
+2025-11-05,Literature,Poetry,130
+2025-11-05,Biology,Genetics,138
+2025-11-05,Literature,Modernism,82
+2025-11-05,History,World War II,143
+2025-11-05,History,Industrial Revolution,16
+2025-11-05,Computer Science,Web Dev,43
+2025-11-05,Literature,Shakespeare,152
+2025-11-05,Mathematics,Calculus,18
+2025-11-05,Mathematics,Calculus,95
+2025-11-05,Mathematics,Statistics,125
+2025-11-05,Mathematics,Calculus,139
+2025-11-05,Biology,Cell Biology,86
+2025-11-05,Mathematics,Statistics,94
+2025-11-05,Mathematics,Geometry,76
+2025-11-05,Literature,Poetry,145
+2025-11-05,Literature,Poetry,130
+2025-11-05,Biology,Ecology,79
+2025-11-05,History,Industrial Revolution,72
+2025-11-05,Physics,Mechanics,111
+2025-11-06,Physics,Optics,133
+2025-11-06,Biology,Anatomy,146
+2025-11-06,Literature,Shakespeare,42
+2025-11-06,Biology,Ecology,129
+2025-11-06,Biology,Cell Biology,113
+2025-11-06,Biology,Cell Biology,70
+2025-11-06,Computer Science,Web Dev,37
+2025-11-06,Computer Science,Algorithms,67
+2025-11-06,Computer Science,Data Structures,49
+2025-11-06,Physics,Electromagnetism,73
+2025-11-06,Literature,Modernism,88
+2025-11-06,Physics,Optics,163
+2025-11-06,Computer Science,Web Dev,114
+2025-11-06,Physics,Thermodynamics,150
+2025-11-06,History,World War II,17
+2025-11-07,Computer Science,Data Structures,115
+2025-11-07,Mathematics,Calculus,82
+2025-11-07,Literature,Novel Study,30
+2025-11-07,Physics,Optics,66
+2025-11-07,Biology,Ecology,142
+2025-11-07,Computer Science,Algorithms,72
+2025-11-07,Computer Science,AI/ML,166
+2025-11-07,Literature,Shakespeare,101
+2025-11-07,Mathematics,Algebra,44
+2025-11-07,Literature,Poetry,121
+2025-11-07,Biology,Anatomy,30
+2025-11-07,History,Industrial Revolution,24
+2025-11-07,History,Industrial Revolution,174
+2025-11-07,Physics,Thermodynamics,97
+2025-11-07,Computer Science,AI/ML,106
+2025-11-07,Literature,Poetry,134
+2025-11-07,Biology,Genetics,147
+2025-11-08,Literature,Modernism,77
+2025-11-08,Mathematics,Geometry,56
+2025-11-08,Physics,Mechanics,27
+2025-11-08,Physics,Mechanics,143
+2025-11-08,Mathematics,Statistics,30
+2025-11-08,Physics,Electromagnetism,99
+2025-11-08,Biology,Anatomy,73
+2025-11-08,Mathematics,Geometry,103
+2025-11-08,History,Industrial Revolution,143
+2025-11-08,Biology,Genetics,148
+2025-11-08,Biology,Anatomy,73
+2025-11-08,Computer Science,Web Dev,26
+2025-11-08,Biology,Cell Biology,42
+2025-11-08,Computer Science,Algorithms,134
+2025-11-08,Biology,Anatomy,48
+2025-11-08,Computer Science,AI/ML,115
+2025-11-08,Biology,Cell Biology,31
+2025-11-09,Biology,Cell Biology,140
+2025-11-09,Literature,Shakespeare,17
+2025-11-09,Computer Science,Data Structures,144
+2025-11-09,Literature,Novel Study,76
+2025-11-09,Mathematics,Geometry,96
+2025-11-09,Mathematics,Statistics,65
+2025-11-09,Biology,Genetics,108
+2025-11-09,Computer Science,Algorithms,126
+2025-11-09,Physics,Thermodynamics,73
+2025-11-09,Physics,Electromagnetism,129
+2025-11-09,History,Industrial Revolution,118
+2025-11-09,Mathematics,Geometry,151
+2025-11-09,Physics,Thermodynamics,25
+2025-11-09,Physics,Thermodynamics,176
+2025-11-09,Computer Science,Web Dev,174
+2025-11-09,Mathematics,Calculus,54
+2025-11-09,Computer Science,Algorithms,55
+2025-11-09,History,Ancient Rome,86
+2025-11-09,Literature,Novel Study,133
+2025-11-09,Physics,Optics,18
+2025-11-09,Mathematics,Geometry,82
+2025-11-09,Biology,Anatomy,134
+2025-11-09,Physics,Electromagnetism,21
+2025-11-09,Mathematics,Calculus,161
+2025-11-09,Biology,Anatomy,112
+2025-11-09,Physics,Optics,27
+2025-11-09,Literature,Poetry,168
+2025-11-10,History,Ancient Rome,97
+2025-11-10,Literature,Modernism,116
+2025-11-10,Physics,Optics,116
+2025-11-10,History,Cold War,140
+2025-11-10,Literature,Novel Study,97
+2025-11-10,Mathematics,Statistics,172
+2025-11-10,Computer Science,Data Structures,110
+2025-11-10,Literature,Poetry,151
+2025-11-10,History,World War II,170
+2025-11-10,Computer Science,Data Structures,36
+2025-11-10,Literature,Poetry,70
+2025-11-10,Literature,Shakespeare,130
+2025-11-10,Literature,Poetry,160
+2025-11-10,Mathematics,Calculus,79
+2025-11-10,Biology,Cell Biology,34
+2025-11-10,Literature,Modernism,133
+2025-11-10,Computer Science,Algorithms,76
+2025-11-10,Physics,Mechanics,96
+2025-11-10,Literature,Shakespeare,79
+2025-11-10,Literature,Poetry,97
+2025-11-10,History,Industrial Revolution,139
+2025-11-11,Literature,Novel Study,95
+2025-11-11,Mathematics,Statistics,131
+2025-11-11,Literature,Poetry,57
+2025-11-11,Mathematics,Geometry,85
+2025-11-11,Mathematics,Geometry,28
+2025-11-11,Literature,Poetry,120
+2025-11-11,Biology,Genetics,166
+2025-11-11,Literature,Shakespeare,175
+2025-11-11,Physics,Optics,167
+2025-11-11,Literature,Novel Study,103
+2025-11-11,Literature,Poetry,47
+2025-11-11,Physics,Mechanics,35
+2025-11-11,Literature,Shakespeare,74
+2025-11-11,Literature,Shakespeare,44
+2025-11-11,Computer Science,AI/ML,63
+2025-11-11,Biology,Genetics,20
+2025-11-11,Biology,Ecology,121
+2025-11-11,Computer Science,Data Structures,34
+2025-11-11,Computer Science,Data Structures,46
+2025-11-11,Mathematics,Statistics,17
+2025-11-11,Mathematics,Algebra,120
+2025-11-11,Mathematics,Algebra,27
+2025-11-11,Physics,Mechanics,77
+2025-11-11,Physics,Optics,33
+2025-11-12,Biology,Anatomy,83
+2025-11-12,Biology,Cell Biology,38
+2025-11-12,Mathematics,Statistics,177
+2025-11-12,Literature,Novel Study,73
+2025-11-12,Physics,Optics,48
+2025-11-12,Computer Science,Data Structures,85
+2025-11-12,History,Industrial Revolution,170
+2025-11-12,Mathematics,Geometry,164
+2025-11-12,Computer Science,AI/ML,171
+2025-11-12,Mathematics,Geometry,92
+2025-11-12,Computer Science,AI/ML,153
+2025-11-12,Literature,Shakespeare,57
+2025-11-12,Mathematics,Calculus,121
+2025-11-12,Mathematics,Geometry,157
+2025-11-12,History,Cold War,117
+2025-11-12,Computer Science,Data Structures,154
+2025-11-12,Literature,Novel Study,32
+2025-11-12,Literature,Poetry,35
+2025-11-12,Mathematics,Statistics,42
+2025-11-12,Physics,Thermodynamics,152
+2025-11-12,Computer Science,AI/ML,48
+2025-11-12,Physics,Optics,70
+2025-11-13,History,World War II,93
+2025-11-13,Biology,Ecology,57
+2025-11-13,Biology,Cell Biology,60
+2025-11-13,Mathematics,Statistics,60
+2025-11-13,Literature,Shakespeare,15
+2025-11-13,Literature,Poetry,57
+2025-11-13,Computer Science,Algorithms,116
+2025-11-13,Mathematics,Geometry,180
+2025-11-13,Biology,Ecology,90
+2025-11-13,Biology,Anatomy,174
+2025-11-13,Biology,Genetics,70
+2025-11-13,Mathematics,Calculus,68
+2025-11-13,History,Ancient Rome,152
+2025-11-13,Biology,Anatomy,127
+2025-11-13,Literature,Poetry,168
+2025-11-13,Mathematics,Geometry,103
+2025-11-13,Physics,Electromagnetism,63
+2025-11-13,History,World War II,171
+2025-11-13,History,World War II,35
+2025-11-13,Physics,Thermodynamics,39
+2025-11-14,Biology,Genetics,73
+2025-11-14,Biology,Genetics,138
+2025-11-14,Computer Science,AI/ML,64
+2025-11-14,Literature,Poetry,133
+2025-11-14,Mathematics,Statistics,19
+2025-11-14,Physics,Thermodynamics,147
+2025-11-14,History,Cold War,155
+2025-11-14,Computer Science,Algorithms,119
+2025-11-14,Physics,Mechanics,84
+2025-11-14,Mathematics,Calculus,75
+2025-11-14,Literature,Shakespeare,77
+2025-11-14,Computer Science,Data Structures,55
+2025-11-14,Physics,Thermodynamics,170
+2025-11-14,Literature,Novel Study,91
+2025-11-14,Computer Science,Algorithms,123
+2025-11-14,Mathematics,Statistics,85
+2025-11-14,Computer Science,Web Dev,133
+2025-11-14,Computer Science,AI/ML,162
+2025-11-14,History,Cold War,158
+2025-11-14,Biology,Genetics,105
+2025-11-15,Mathematics,Geometry,109
+2025-11-15,Physics,Optics,52
+2025-11-15,Biology,Cell Biology,21
+2025-11-15,Literature,Novel Study,176
+2025-11-15,Mathematics,Geometry,105
+2025-11-15,Biology,Ecology,19
+2025-11-15,Computer Science,Data Structures,176
+2025-11-15,Computer Science,Algorithms,87
+2025-11-15,Computer Science,AI/ML,147
+2025-11-15,History,Cold War,84
+2025-11-15,History,Industrial Revolution,110
+2025-11-15,History,Industrial Revolution,167
+2025-11-15,Biology,Anatomy,139
+2025-11-15,History,World War II,113
+2025-11-15,Literature,Shakespeare,56
+2025-11-15,History,Ancient Rome,105
+2025-11-15,Physics,Mechanics,46
+2025-11-15,Literature,Shakespeare,124
+2025-11-15,Mathematics,Statistics,40
+2025-11-16,Mathematics,Geometry,32
+2025-11-16,Mathematics,Statistics,48
+2025-11-16,Computer Science,AI/ML,49
+2025-11-16,Physics,Electromagnetism,68
+2025-11-16,Literature,Novel Study,78
+2025-11-16,Literature,Novel Study,154
+2025-11-16,Mathematics,Algebra,119
+2025-11-16,Physics,Optics,155
+2025-11-16,Mathematics,Algebra,168
+2025-11-16,Computer Science,Web Dev,93
+2025-11-16,Physics,Mechanics,151
+2025-11-16,History,World War II,114
+2025-11-16,Biology,Ecology,116
+2025-11-16,Computer Science,Data Structures,85
+2025-11-16,History,Industrial Revolution,116
+2025-11-16,Computer Science,Web Dev,172
+2025-11-16,Computer Science,AI/ML,54
+2025-11-17,Mathematics,Algebra,20
+2025-11-17,Physics,Thermodynamics,144
+2025-11-17,Literature,Shakespeare,87
+2025-11-17,Computer Science,AI/ML,41
+2025-11-17,Physics,Electromagnetism,65
+2025-11-17,History,Cold War,51
+2025-11-17,Computer Science,Algorithms,34
+2025-11-17,Literature,Shakespeare,48
+2025-11-17,History,Cold War,102
+2025-11-17,Mathematics,Statistics,138
+2025-11-17,Literature,Shakespeare,38
+2025-11-17,Computer Science,AI/ML,40
+2025-11-17,History,Ancient Rome,15
+2025-11-17,Mathematics,Statistics,163
+2025-11-17,Physics,Mechanics,19
+2025-11-17,Physics,Mechanics,170
+2025-11-17,Biology,Ecology,134
+2025-11-17,History,World War II,65
+2025-11-17,Physics,Optics,67
+2025-11-17,Computer Science,AI/ML,168
+2025-11-18,Physics,Mechanics,146
+2025-11-18,Physics,Mechanics,161
+2025-11-18,Biology,Genetics,74
+2025-11-18,Mathematics,Geometry,72
+2025-11-18,Mathematics,Algebra,141
+2025-11-18,Physics,Electromagnetism,137
+2025-11-18,Literature,Shakespeare,155
+2025-11-18,Literature,Novel Study,137
+2025-11-18,Physics,Electromagnetism,100
+2025-11-18,Computer Science,Algorithms,134
+2025-11-18,Literature,Modernism,101
+2025-11-18,Biology,Cell Biology,33
+2025-11-18,History,World War II,41
+2025-11-18,Physics,Electromagnetism,71
+2025-11-18,Computer Science,Data Structures,85
+2025-11-18,Physics,Electromagnetism,92
+2025-11-18,Mathematics,Geometry,162
+2025-11-18,Physics,Electromagnetism,79
+2025-11-18,Biology,Anatomy,21
+2025-11-18,Physics,Mechanics,174
+2025-11-18,Computer Science,Data Structures,154
+2025-11-18,Biology,Anatomy,152
+2025-11-18,Biology,Ecology,29
+2025-11-18,Mathematics,Calculus,54
+2025-11-18,Biology,Ecology,82
+2025-11-19,History,Cold War,148
+2025-11-19,Biology,Cell Biology,16
+2025-11-19,Physics,Mechanics,28
+2025-11-19,Mathematics,Algebra,58
+2025-11-19,Literature,Shakespeare,140
+2025-11-19,Literature,Modernism,41
+2025-11-19,History,Industrial Revolution,21
+2025-11-19,History,Ancient Rome,163
+2025-11-19,Literature,Modernism,35
+2025-11-19,History,Ancient Rome,71
+2025-11-19,Computer Science,Data Structures,128
+2025-11-19,Literature,Shakespeare,144
+2025-11-19,Literature,Novel Study,33
+2025-11-19,Biology,Anatomy,68
+2025-11-19,Computer Science,AI/ML,25
+2025-11-19,Physics,Electromagnetism,68
+2025-11-19,Physics,Optics,58
+2025-11-19,Mathematics,Algebra,140
+2025-11-19,Computer Science,Web Dev,18
+2025-11-19,Literature,Poetry,100
+2025-11-19,Literature,Poetry,140
+2025-11-20,Mathematics,Calculus,134
+2025-11-20,Physics,Electromagnetism,180
+2025-11-20,History,Ancient Rome,99
+2025-11-20,Biology,Genetics,119
+2025-11-20,History,Ancient Rome,32
+2025-11-20,Biology,Genetics,57
+2025-11-20,Biology,Anatomy,118
+2025-11-20,Biology,Anatomy,97
+2025-11-20,Computer Science,Web Dev,108
+2025-11-20,Computer Science,Data Structures,70
+2025-11-20,Physics,Optics,146
+2025-11-20,Physics,Mechanics,130
+2025-11-20,Biology,Genetics,100
+2025-11-20,History,Ancient Rome,36
+2025-11-20,Literature,Shakespeare,67
+2025-11-20,Computer Science,AI/ML,152
+2025-11-20,Computer Science,Algorithms,130
+2025-11-20,Mathematics,Algebra,154
+2025-11-20,Physics,Thermodynamics,62
+2025-11-20,History,Ancient Rome,24
+2025-11-21,Literature,Modernism,90
+2025-11-21,Mathematics,Algebra,166
+2025-11-21,Computer Science,AI/ML,176
+2025-11-21,Computer Science,Data Structures,69
+2025-11-21,Mathematics,Geometry,80
+2025-11-21,Literature,Modernism,19
+2025-11-21,Computer Science,Data Structures,20
+2025-11-21,Biology,Genetics,177
+2025-11-21,Physics,Mechanics,84
+2025-11-21,Physics,Thermodynamics,116
+2025-11-21,Mathematics,Geometry,66
+2025-11-21,History,Ancient Rome,87
+2025-11-21,Computer Science,AI/ML,173
+2025-11-21,Biology,Cell Biology,73
+2025-11-21,Computer Science,AI/ML,32
+2025-11-21,Literature,Modernism,104
+2025-11-21,Mathematics,Geometry,177
+2025-11-21,Biology,Genetics,135
+2025-11-21,Biology,Anatomy,25
+2025-11-21,Computer Science,Algorithms,35
+2025-11-21,Literature,Shakespeare,161
+2025-11-21,History,Cold War,167
+2025-11-22,Physics,Mechanics,177
+2025-11-22,Physics,Electromagnetism,180
+2025-11-22,History,Cold War,85
+2025-11-22,Mathematics,Algebra,82
+2025-11-22,History,Ancient Rome,48
+2025-11-22,History,Ancient Rome,26
+2025-11-22,History,Industrial Revolution,177
+2025-11-22,Computer Science,Web Dev,54
+2025-11-22,Mathematics,Statistics,20
+2025-11-22,Computer Science,Data Structures,18
+2025-11-22,Physics,Mechanics,87
+2025-11-22,Physics,Thermodynamics,86
+2025-11-22,Mathematics,Calculus,80
+2025-11-22,History,Cold War,103
+2025-11-22,Mathematics,Statistics,127
+2025-11-22,Biology,Genetics,128
+2025-11-22,Computer Science,Web Dev,16
+2025-11-22,Biology,Anatomy,136
+2025-11-22,Physics,Electromagnetism,61
+2025-11-22,History,Cold War,96
+2025-11-22,Computer Science,Algorithms,128
+2025-11-22,Literature,Modernism,162
+2025-11-23,Computer Science,Web Dev,76
+2025-11-23,History,Cold War,84
+2025-11-23,Physics,Thermodynamics,120
+2025-11-23,Computer Science,AI/ML,155
+2025-11-23,Computer Science,Algorithms,101
+2025-11-23,Mathematics,Calculus,29
+2025-11-23,Literature,Poetry,73
+2025-11-23,History,Ancient Rome,82
+2025-11-23,Physics,Thermodynamics,109
+2025-11-23,Literature,Shakespeare,113
+2025-11-23,Physics,Optics,42
+2025-11-23,Mathematics,Statistics,85
+2025-11-23,History,Ancient Rome,147
+2025-11-23,Literature,Poetry,80
+2025-11-23,Physics,Optics,126
+2025-11-23,Computer Science,AI/ML,130
+2025-11-23,History,World War II,158
+2025-11-23,History,Industrial Revolution,160
+2025-11-23,Mathematics,Calculus,133
+2025-11-23,Computer Science,Algorithms,160
+2025-11-23,History,Cold War,57
+2025-11-23,Physics,Electromagnetism,45
+2025-11-23,Physics,Optics,105
+2025-11-23,History,World War II,144
+2025-11-23,Computer Science,AI/ML,105
+2025-11-24,Mathematics,Algebra,139
+2025-11-24,Literature,Novel Study,88
+2025-11-24,Computer Science,Algorithms,60
+2025-11-24,History,Cold War,46
+2025-11-24,History,World War II,129
+2025-11-24,History,Industrial Revolution,45
+2025-11-24,Mathematics,Geometry,34
+2025-11-24,Literature,Novel Study,137
+2025-11-24,Mathematics,Geometry,122
+2025-11-24,Computer Science,Web Dev,56
+2025-11-24,Biology,Genetics,180
+2025-11-24,Computer Science,AI/ML,73
+2025-11-24,Literature,Modernism,133
+2025-11-24,Biology,Cell Biology,141
+2025-11-24,Physics,Mechanics,16
+2025-11-24,Computer Science,Data Structures,86
+2025-11-24,Computer Science,Data Structures,138
+2025-11-24,History,Cold War,123
+2025-11-24,Mathematics,Geometry,64
+2025-11-24,Computer Science,Web Dev,16
+2025-11-24,Computer Science,Data Structures,175
+2025-11-24,Literature,Shakespeare,163
+2025-11-24,Biology,Genetics,159
+2025-11-24,Mathematics,Geometry,94
+2025-11-24,Computer Science,Algorithms,22
+2025-11-24,Physics,Thermodynamics,148
+2025-11-24,Mathematics,Statistics,143
+2025-11-24,Biology,Cell Biology,56
+2025-11-25,History,Industrial Revolution,79
+2025-11-25,Computer Science,Algorithms,91
+2025-11-25,Biology,Anatomy,26
+2025-11-25,Biology,Ecology,113
+2025-11-25,Computer Science,AI/ML,176
+2025-11-25,History,World War II,72
+2025-11-25,Mathematics,Algebra,156
+2025-11-25,Mathematics,Algebra,31
+2025-11-25,Literature,Shakespeare,140
+2025-11-25,Mathematics,Statistics,42
+2025-11-25,Biology,Cell Biology,73
+2025-11-25,Literature,Novel Study,25
+2025-11-25,Physics,Electromagnetism,108
+2025-11-25,Physics,Optics,92
+2025-11-25,Computer Science,Web Dev,120
+2025-11-25,History,Cold War,18
+2025-11-25,Biology,Cell Biology,110
+2025-11-25,Physics,Optics,159
+2025-11-25,History,Cold War,75
+2025-11-25,Computer Science,Algorithms,41
+2025-11-25,Physics,Thermodynamics,91
+2025-11-25,Mathematics,Statistics,163
+2025-11-25,Computer Science,Web Dev,73
+2025-11-26,History,Cold War,77
+2025-11-26,Literature,Poetry,88
+2025-11-26,Mathematics,Geometry,117
+2025-11-26,Computer Science,Algorithms,16
+2025-11-26,History,Industrial Revolution,119
+2025-11-26,Literature,Novel Study,57
+2025-11-26,Biology,Anatomy,70
+2025-11-26,Literature,Poetry,87
+2025-11-26,Literature,Novel Study,118
+2025-11-26,Literature,Poetry,102
+2025-11-26,Literature,Novel Study,43
+2025-11-26,Mathematics,Algebra,75
+2025-11-26,Mathematics,Calculus,19
+2025-11-26,Physics,Electromagnetism,81
+2025-11-26,Biology,Cell Biology,84
+2025-11-26,Computer Science,Web Dev,117
+2025-11-26,Literature,Novel Study,46
+2025-11-26,History,World War II,63
+2025-11-26,Biology,Genetics,36
+2025-11-26,Biology,Genetics,23
+2025-11-27,Mathematics,Algebra,167
+2025-11-27,Biology,Anatomy,17
+2025-11-27,Computer Science,Web Dev,37
+2025-11-27,Physics,Optics,160
+2025-11-27,Mathematics,Geometry,152
+2025-11-27,Physics,Electromagnetism,83
+2025-11-27,Computer Science,Web Dev,105
+2025-11-27,History,World War II,67
+2025-11-27,Mathematics,Algebra,60
+2025-11-27,History,Ancient Rome,70
+2025-11-27,Computer Science,AI/ML,45
+2025-11-27,Computer Science,Web Dev,131
+2025-11-27,Computer Science,Web Dev,171
+2025-11-27,Computer Science,Data Structures,173
+2025-11-27,Physics,Optics,99
+2025-11-27,Biology,Cell Biology,49
+2025-11-27,Physics,Mechanics,150
+2025-11-27,Computer Science,Web Dev,90
+2025-11-27,Physics,Thermodynamics,168
+2025-11-28,Computer Science,Data Structures,90
+2025-11-28,Physics,Thermodynamics,70
+2025-11-28,Physics,Thermodynamics,92
+2025-11-28,Physics,Optics,92
+2025-11-28,Biology,Genetics,146
+2025-11-28,Computer Science,Web Dev,121
+2025-11-28,History,Industrial Revolution,66
+2025-11-28,History,Ancient Rome,178
+2025-11-28,History,Ancient Rome,119
+2025-11-28,History,World War II,168
+2025-11-28,Mathematics,Geometry,172
+2025-11-28,Biology,Anatomy,91
+2025-11-28,Literature,Novel Study,49
+2025-11-28,Biology,Anatomy,89
+2025-11-28,History,Cold War,137
+2025-11-28,Physics,Optics,119
+2025-11-28,History,Cold War,35
+2025-11-28,Computer Science,Web Dev,120
+2025-11-28,History,World War II,87
+2025-11-28,Computer Science,Algorithms,146
+2025-11-28,Physics,Mechanics,89
+2025-11-28,Computer Science,Web Dev,92
+2025-11-28,Computer Science,Web Dev,106
+2025-11-28,History,Cold War,27
+2025-11-29,Mathematics,Geometry,167
+2025-11-29,History,Ancient Rome,178
+2025-11-29,Physics,Optics,94
+2025-11-29,Computer Science,AI/ML,123
+2025-11-29,Biology,Genetics,132
+2025-11-29,Biology,Ecology,152
+2025-11-29,History,Industrial Revolution,90
+2025-11-29,Physics,Thermodynamics,171
+2025-11-29,History,World War II,45
+2025-11-29,History,World War II,103
+2025-11-29,Physics,Optics,111
+2025-11-29,Mathematics,Calculus,36
+2025-11-29,Mathematics,Calculus,58
+2025-11-29,Computer Science,Algorithms,24
+2025-11-29,Physics,Electromagnetism,107
+2025-11-29,Biology,Genetics,110
+2025-11-29,Biology,Cell Biology,100
+2025-11-29,Computer Science,Algorithms,55
+2025-11-29,Literature,Shakespeare,89
+2025-11-29,Physics,Electromagnetism,54
+2025-11-29,Computer Science,Algorithms,152
+2025-11-29,Computer Science,Data Structures,50
+2025-11-30,History,Cold War,42
+2025-11-30,History,Industrial Revolution,153
+2025-11-30,Literature,Poetry,141
+2025-11-30,Physics,Electromagnetism,71
+2025-11-30,History,Industrial Revolution,173
+2025-11-30,Physics,Electromagnetism,99
+2025-11-30,Physics,Thermodynamics,51
+2025-11-30,Literature,Shakespeare,53
+2025-11-30,Computer Science,Web Dev,143
+2025-11-30,Physics,Electromagnetism,31
+2025-11-30,Computer Science,Web Dev,20
+2025-11-30,Mathematics,Geometry,96
+2025-11-30,Computer Science,AI/ML,58
+2025-11-30,History,World War II,93
+2025-11-30,Biology,Cell Biology,24
+2025-11-30,Physics,Mechanics,93
+2025-11-30,Biology,Ecology,24
+2025-11-30,Physics,Optics,164
+2025-11-30,Mathematics,Calculus,165
+2025-11-30,History,World War II,172
+2025-11-30,Computer Science,AI/ML,68
+2025-12-01,Mathematics,Algebra,117
+2025-12-01,Biology,Genetics,169
+2025-12-01,Computer Science,Algorithms,33
+2025-12-01,Physics,Optics,48
+2025-12-01,Physics,Electromagnetism,121
+2025-12-01,Computer Science,Data Structures,147
+2025-12-01,Biology,Ecology,79
+2025-12-01,History,Ancient Rome,68
+2025-12-01,Physics,Electromagnetism,175
+2025-12-01,History,Cold War,95
+2025-12-01,Computer Science,Data Structures,176
+2025-12-01,Mathematics,Statistics,165
+2025-12-01,Computer Science,Web Dev,104
+2025-12-01,Mathematics,Calculus,79
+2025-12-01,Biology,Ecology,40
+2025-12-01,Physics,Thermodynamics,92
+2025-12-01,Computer Science,Data Structures,113
+2025-12-01,History,World War II,63
+2025-12-01,Physics,Electromagnetism,55
+2025-12-01,Literature,Shakespeare,48
+2025-12-01,Biology,Genetics,93
+2025-12-01,Literature,Poetry,53
+2025-12-01,History,Industrial Revolution,71
+2025-12-01,Mathematics,Statistics,139
+2025-12-01,History,Industrial Revolution,19
+2025-12-01,Computer Science,Data Structures,34
+2025-12-01,Biology,Cell Biology,154
+2025-12-01,Mathematics,Statistics,56
+2025-12-02,Computer Science,Data Structures,131
+2025-12-02,Biology,Ecology,103
+2025-12-02,Literature,Shakespeare,151
+2025-12-02,Literature,Modernism,131
+2025-12-02,Computer Science,Algorithms,139
+2025-12-02,Computer Science,Data Structures,72
+2025-12-02,Biology,Cell Biology,125
+2025-12-02,Mathematics,Geometry,106
+2025-12-02,Physics,Electromagnetism,166
+2025-12-02,Computer Science,Data Structures,102
+2025-12-02,Biology,Ecology,16
+2025-12-02,Mathematics,Algebra,92
+2025-12-02,History,Ancient Rome,109
+2025-12-02,History,Cold War,155
+2025-12-02,Mathematics,Statistics,161
+2025-12-02,Biology,Genetics,21
+2025-12-02,Mathematics,Geometry,66
+2025-12-03,Computer Science,Algorithms,64
+2025-12-03,Computer Science,Algorithms,128
+2025-12-03,Literature,Novel Study,55
+2025-12-03,Mathematics,Statistics,150
+2025-12-03,Mathematics,Algebra,31
+2025-12-03,Physics,Electromagnetism,72
+2025-12-03,Mathematics,Algebra,124
+2025-12-03,Physics,Electromagnetism,31
+2025-12-03,Mathematics,Calculus,173
+2025-12-03,History,Industrial Revolution,168
+2025-12-03,Literature,Shakespeare,109
+2025-12-03,Literature,Shakespeare,147
+2025-12-03,Biology,Cell Biology,159
+2025-12-03,Computer Science,Algorithms,23
+2025-12-03,Literature,Novel Study,118
+2025-12-03,Mathematics,Calculus,167
+2025-12-03,Literature,Poetry,171
+2025-12-03,Physics,Optics,62
+2025-12-03,Physics,Mechanics,157
+2025-12-03,Computer Science,Data Structures,78
+2025-12-03,Computer Science,Data Structures,84
+2025-12-03,Literature,Modernism,78
+2025-12-03,History,World War II,20
+2025-12-03,History,Cold War,36
+2025-12-03,Mathematics,Calculus,161
+2025-12-04,Mathematics,Calculus,58
+2025-12-04,Literature,Novel Study,43
+2025-12-04,Computer Science,Algorithms,176
+2025-12-04,Biology,Cell Biology,61
+2025-12-04,Mathematics,Statistics,111
+2025-12-04,Physics,Electromagnetism,91
+2025-12-04,Biology,Genetics,53
+2025-12-04,Physics,Mechanics,119
+2025-12-04,Mathematics,Calculus,86
+2025-12-04,Physics,Electromagnetism,74
+2025-12-04,Biology,Cell Biology,42
+2025-12-04,Literature,Poetry,128
+2025-12-04,Computer Science,Algorithms,66
+2025-12-04,Mathematics,Calculus,28
+2025-12-04,Literature,Poetry,102
+2025-12-04,Physics,Mechanics,83
+2025-12-04,Physics,Optics,116
+2025-12-05,Mathematics,Statistics,173
+2025-12-05,Physics,Electromagnetism,43
+2025-12-05,Literature,Shakespeare,30
+2025-12-05,History,Ancient Rome,55
+2025-12-05,Mathematics,Statistics,28
+2025-12-05,Mathematics,Calculus,142
+2025-12-05,Biology,Cell Biology,133
+2025-12-05,Literature,Modernism,67
+2025-12-05,Biology,Ecology,15
+2025-12-05,Physics,Thermodynamics,121
+2025-12-05,Literature,Poetry,136
+2025-12-05,Physics,Electromagnetism,90
+2025-12-05,Literature,Shakespeare,40
+2025-12-05,Computer Science,Algorithms,103
+2025-12-05,Literature,Novel Study,170
+2025-12-05,Biology,Cell Biology,107
+2025-12-05,Physics,Electromagnetism,86
+2025-12-05,Literature,Novel Study,27
+2025-12-05,Physics,Optics,24
+2025-12-05,History,Cold War,58
+2025-12-05,History,World War II,74
+2025-12-05,Biology,Genetics,55
+2025-12-05,Biology,Anatomy,72
+2025-12-05,Computer Science,Data Structures,158
+2025-12-05,Mathematics,Geometry,91
+2025-12-06,Mathematics,Geometry,144
+2025-12-06,Computer Science,Algorithms,81
+2025-12-06,Physics,Electromagnetism,122
+2025-12-06,Computer Science,Algorithms,131
+2025-12-06,History,Ancient Rome,50
+2025-12-06,Mathematics,Statistics,40
+2025-12-06,Mathematics,Geometry,164
+2025-12-06,History,Ancient Rome,52
+2025-12-06,Biology,Ecology,151
+2025-12-06,Biology,Ecology,129
+2025-12-06,History,Ancient Rome,15
+2025-12-06,Literature,Poetry,111
+2025-12-06,Mathematics,Algebra,141
+2025-12-06,History,Ancient Rome,75
+2025-12-06,Biology,Ecology,110
+2025-12-06,Computer Science,AI/ML,161
+2025-12-06,Literature,Modernism,53
+2025-12-06,Literature,Poetry,83
+2025-12-06,Literature,Modernism,108
+2025-12-06,Physics,Electromagnetism,27
+2025-12-06,Biology,Ecology,60
+2025-12-06,Literature,Shakespeare,141
+2025-12-06,Literature,Modernism,23
+2025-12-06,Physics,Optics,59
+2025-12-06,Biology,Cell Biology,57
+2025-12-06,History,Cold War,45
+2025-12-06,History,Cold War,158
+2025-12-06,Biology,Ecology,137
+2025-12-06,Physics,Optics,110
+2025-12-07,Computer Science,Data Structures,96
+2025-12-07,History,Cold War,64
+2025-12-07,Computer Science,Web Dev,82
+2025-12-07,Mathematics,Algebra,147
+2025-12-07,History,Industrial Revolution,34
+2025-12-07,History,Industrial Revolution,42
+2025-12-07,Biology,Genetics,36
+2025-12-07,Physics,Optics,75
+2025-12-07,Computer Science,Web Dev,34
+2025-12-07,Literature,Poetry,142
+2025-12-07,History,Ancient Rome,86
+2025-12-07,Biology,Cell Biology,70
+2025-12-07,Mathematics,Algebra,77
+2025-12-07,Biology,Genetics,31
+2025-12-07,Mathematics,Geometry,36
+2025-12-07,Physics,Electromagnetism,60
+2025-12-08,Mathematics,Algebra,15
+2025-12-08,Biology,Anatomy,170
+2025-12-08,Mathematics,Algebra,157
+2025-12-08,Literature,Shakespeare,147
+2025-12-08,Computer Science,Data Structures,97
+2025-12-08,Physics,Electromagnetism,75
+2025-12-08,Biology,Cell Biology,43
+2025-12-08,Mathematics,Geometry,65
+2025-12-08,Physics,Electromagnetism,30
+2025-12-08,Biology,Anatomy,52
+2025-12-08,Mathematics,Calculus,24
+2025-12-08,Computer Science,Data Structures,99
+2025-12-08,Mathematics,Statistics,144
+2025-12-08,Literature,Shakespeare,26
+2025-12-08,Physics,Thermodynamics,79
+2025-12-08,Literature,Shakespeare,113
+2025-12-08,Biology,Cell Biology,146
+2025-12-08,Biology,Cell Biology,117
+2025-12-09,Biology,Cell Biology,31
+2025-12-09,Literature,Novel Study,29
+2025-12-09,Computer Science,Web Dev,118
+2025-12-09,Literature,Shakespeare,99
+2025-12-09,Computer Science,Algorithms,124
+2025-12-09,Mathematics,Algebra,123
+2025-12-09,Biology,Ecology,47
+2025-12-09,Biology,Genetics,35
+2025-12-09,Physics,Mechanics,15
+2025-12-09,Physics,Electromagnetism,112
+2025-12-09,Physics,Optics,72
+2025-12-09,Mathematics,Calculus,37
+2025-12-09,Biology,Cell Biology,107
+2025-12-09,Mathematics,Calculus,27
+2025-12-09,History,Ancient Rome,22
+2025-12-09,Literature,Poetry,38
+2025-12-09,Literature,Novel Study,147
+2025-12-09,Literature,Modernism,166
+2025-12-09,Literature,Modernism,18
+2025-12-09,Biology,Cell Biology,53
+2025-12-09,Biology,Anatomy,97
+2025-12-09,History,Cold War,115
+2025-12-09,History,World War II,160
+2025-12-09,Literature,Shakespeare,63
+2025-12-09,History,Ancient Rome,156
+2025-12-09,Literature,Modernism,146
+2025-12-10,Mathematics,Algebra,113
+2025-12-10,Computer Science,AI/ML,68
+2025-12-10,Biology,Cell Biology,40
+2025-12-10,History,Cold War,123
+2025-12-10,Physics,Mechanics,77
+2025-12-10,Physics,Thermodynamics,153
+2025-12-10,History,World War II,47
+2025-12-10,Mathematics,Calculus,93
+2025-12-10,History,Ancient Rome,66
+2025-12-10,History,Cold War,126
+2025-12-10,History,Ancient Rome,80
+2025-12-10,Mathematics,Calculus,171
+2025-12-10,Literature,Modernism,133
+2025-12-10,History,Cold War,96
+2025-12-10,History,Cold War,122
+2025-12-10,Computer Science,Data Structures,63
+2025-12-10,Mathematics,Geometry,104
+2025-12-10,Literature,Modernism,110
+2025-12-10,Literature,Shakespeare,106
+2025-12-10,Biology,Ecology,91
+2025-12-10,Biology,Genetics,91
+2025-12-10,Physics,Optics,32
+2025-12-10,Mathematics,Algebra,161
+2025-12-11,Physics,Mechanics,119
+2025-12-11,Physics,Electromagnetism,164
+2025-12-11,History,Industrial Revolution,150
+2025-12-11,Literature,Novel Study,82
+2025-12-11,Mathematics,Algebra,173
+2025-12-11,Biology,Ecology,120
+2025-12-11,Computer Science,Web Dev,167
+2025-12-11,Physics,Thermodynamics,113
+2025-12-11,Mathematics,Calculus,149
+2025-12-11,Mathematics,Calculus,119
+2025-12-11,History,Ancient Rome,102
+2025-12-11,Physics,Mechanics,89
+2025-12-11,Computer Science,AI/ML,78
+2025-12-11,Biology,Ecology,55
+2025-12-11,Biology,Ecology,42
+2025-12-11,Biology,Genetics,161
+2025-12-11,Physics,Electromagnetism,64
+2025-12-12,Literature,Shakespeare,78
+2025-12-12,Physics,Thermodynamics,44
+2025-12-12,Mathematics,Statistics,104
+2025-12-12,History,Industrial Revolution,143
+2025-12-12,Literature,Poetry,32
+2025-12-12,Biology,Anatomy,61
+2025-12-12,Literature,Modernism,76
+2025-12-12,Mathematics,Algebra,110
+2025-12-12,Computer Science,Web Dev,133
+2025-12-12,Mathematics,Statistics,162
+2025-12-12,Computer Science,AI/ML,155
+2025-12-12,History,Cold War,102
+2025-12-12,Literature,Modernism,121
+2025-12-12,Biology,Genetics,142
+2025-12-12,Literature,Modernism,63
+2025-12-12,Literature,Novel Study,42
+2025-12-12,Biology,Genetics,86
+2025-12-12,History,World War II,90
+2025-12-12,Biology,Ecology,138
+2025-12-12,Mathematics,Calculus,34
+2025-12-12,Physics,Mechanics,127
+2025-12-12,History,Industrial Revolution,138
+2025-12-13,Biology,Genetics,151
+2025-12-13,History,Cold War,36
+2025-12-13,Literature,Modernism,20
+2025-12-13,Physics,Thermodynamics,65
+2025-12-13,Computer Science,Algorithms,129
+2025-12-13,Computer Science,Web Dev,122
+2025-12-13,Physics,Thermodynamics,88
+2025-12-13,Physics,Electromagnetism,67
+2025-12-13,Literature,Poetry,106
+2025-12-13,Mathematics,Statistics,146
+2025-12-13,Physics,Mechanics,42
+2025-12-13,History,Cold War,81
+2025-12-13,Biology,Anatomy,59
+2025-12-13,Physics,Mechanics,53
+2025-12-13,Physics,Electromagnetism,144
+2025-12-13,Physics,Mechanics,77
+2025-12-13,Biology,Anatomy,53
+2025-12-13,Literature,Poetry,132
+2025-12-13,Biology,Ecology,167
+2025-12-13,History,Industrial Revolution,165
+2025-12-13,Computer Science,Data Structures,16
+2025-12-13,Biology,Anatomy,59
+2025-12-13,Computer Science,Data Structures,42
+2025-12-14,Mathematics,Algebra,78
+2025-12-14,Mathematics,Statistics,70
+2025-12-14,History,Ancient Rome,139
+2025-12-14,Physics,Electromagnetism,148
+2025-12-14,Biology,Anatomy,163
+2025-12-14,Literature,Shakespeare,110
+2025-12-14,Biology,Ecology,95
+2025-12-14,Physics,Optics,132
+2025-12-14,Literature,Novel Study,169
+2025-12-14,Mathematics,Geometry,109
+2025-12-14,History,Industrial Revolution,101
+2025-12-14,Mathematics,Calculus,33
+2025-12-14,Computer Science,Web Dev,38
+2025-12-14,History,World War II,156
+2025-12-14,Mathematics,Calculus,46
+2025-12-14,History,Cold War,144
+2025-12-14,Physics,Mechanics,121
+2025-12-14,Physics,Mechanics,47
+2025-12-14,Mathematics,Geometry,103
+2025-12-14,Literature,Poetry,117
+2025-12-15,Mathematics,Algebra,179
+2025-12-15,Mathematics,Algebra,44
+2025-12-15,Mathematics,Statistics,74
+2025-12-15,Literature,Modernism,64
+2025-12-15,Biology,Genetics,60
+2025-12-15,History,Cold War,61
+2025-12-15,Mathematics,Geometry,146
+2025-12-15,Literature,Modernism,170
+2025-12-15,Biology,Anatomy,134
+2025-12-15,Physics,Optics,148
+2025-12-15,Biology,Genetics,22
+2025-12-15,Biology,Ecology,89
+2025-12-15,History,Industrial Revolution,102
+2025-12-15,Mathematics,Statistics,112
+2025-12-15,Biology,Anatomy,77
+2025-12-15,Physics,Optics,164
+2025-12-15,Computer Science,AI/ML,141
+2025-12-15,Mathematics,Statistics,36
+2025-12-15,Computer Science,Data Structures,15
+2025-12-15,Literature,Novel Study,118
+2025-12-16,Computer Science,Algorithms,33
+2025-12-16,Biology,Cell Biology,41
+2025-12-16,Mathematics,Geometry,26
+2025-12-16,History,Cold War,17
+2025-12-16,Literature,Poetry,76
+2025-12-16,Physics,Mechanics,61
+2025-12-16,Mathematics,Algebra,164
+2025-12-16,Computer Science,Web Dev,100
+2025-12-16,Computer Science,Data Structures,124
+2025-12-16,History,Cold War,30
+2025-12-16,Computer Science,Data Structures,163
+2025-12-16,Mathematics,Calculus,128
+2025-12-16,History,World War II,105
+2025-12-16,Physics,Mechanics,45
+2025-12-16,Physics,Optics,38
+2025-12-16,Mathematics,Algebra,139
+2025-12-16,Literature,Novel Study,130
+2025-12-16,Biology,Anatomy,46
+2025-12-16,Computer Science,Algorithms,108
+2025-12-16,History,Industrial Revolution,141
+2025-12-16,Computer Science,Data Structures,145
+2025-12-16,Biology,Anatomy,78
+2025-12-16,Physics,Electromagnetism,121
+2025-12-16,Physics,Thermodynamics,127
+2025-12-16,Literature,Modernism,76
+2025-12-16,Computer Science,Web Dev,29
+2025-12-16,Literature,Shakespeare,76
+2025-12-16,Mathematics,Algebra,41
+2025-12-17,Literature,Novel Study,132
+2025-12-17,Biology,Ecology,25
+2025-12-17,Mathematics,Geometry,173
+2025-12-17,Physics,Mechanics,142
+2025-12-17,Biology,Cell Biology,162
+2025-12-17,Literature,Novel Study,107
+2025-12-17,Physics,Optics,125
+2025-12-17,History,Cold War,42
+2025-12-17,Literature,Shakespeare,63
+2025-12-17,Physics,Optics,35
+2025-12-17,History,Cold War,25
+2025-12-17,Biology,Genetics,66
+2025-12-17,Biology,Genetics,53
+2025-12-17,History,Cold War,87
+2025-12-17,History,Cold War,42
+2025-12-17,History,World War II,174
+2025-12-17,Computer Science,Algorithms,110
+2025-12-17,History,World War II,37
+2025-12-17,History,Cold War,45
+2025-12-17,Literature,Modernism,129
+2025-12-17,Computer Science,Algorithms,106
+2025-12-17,Computer Science,Data Structures,66
+2025-12-18,History,Cold War,74
+2025-12-18,History,Cold War,133
+2025-12-18,Physics,Optics,107
+2025-12-18,Physics,Optics,25
+2025-12-18,Mathematics,Calculus,148
+2025-12-18,Biology,Anatomy,123
+2025-12-18,Literature,Shakespeare,74
+2025-12-18,Literature,Shakespeare,20
+2025-12-18,Computer Science,Data Structures,157
+2025-12-18,History,Ancient Rome,112
+2025-12-18,Mathematics,Algebra,75
+2025-12-18,Mathematics,Geometry,179
+2025-12-18,History,World War II,26
+2025-12-18,Computer Science,AI/ML,81
+2025-12-18,History,Industrial Revolution,155
+2025-12-18,Biology,Ecology,44
+2025-12-18,History,Industrial Revolution,35
+2025-12-18,Physics,Mechanics,160
+2025-12-18,Physics,Mechanics,95
+2025-12-18,Physics,Electromagnetism,23
+2025-12-18,Mathematics,Algebra,133
+2025-12-18,Literature,Modernism,56
+2025-12-18,Computer Science,Data Structures,94
+2025-12-19,Physics,Mechanics,114
+2025-12-19,Computer Science,Algorithms,35
+2025-12-19,Computer Science,Data Structures,87
+2025-12-19,Biology,Ecology,62
+2025-12-19,Literature,Modernism,165
+2025-12-19,Literature,Novel Study,72
+2025-12-19,Mathematics,Geometry,68
+2025-12-19,Biology,Genetics,113
+2025-12-19,Physics,Thermodynamics,148
+2025-12-19,Computer Science,Web Dev,34
+2025-12-19,History,World War II,168
+2025-12-19,Computer Science,Web Dev,122
+2025-12-19,History,World War II,130
+2025-12-19,Computer Science,Data Structures,170
+2025-12-19,Literature,Novel Study,50
