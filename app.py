@@ -6,7 +6,7 @@ import os
 
 def analyze(file):
 
-    # ---------------- LOAD DATA ----------------
+
     if file is not None:
         path = file.name
     else:
@@ -18,7 +18,7 @@ def analyze(file):
     df = pd.read_csv(path)
     df['Date'] = pd.to_datetime(df['Date'])
 
-    # ---------------- CALCULATIONS ----------------
+  
     total_minutes = df['Duration_Minutes'].sum()
     total_hours = round(total_minutes / 60, 2)
 
@@ -39,7 +39,6 @@ def analyze(file):
         f"Total Sessions: {sessions}"
     )
 
-    # ---------------- SUBJECT GRAPH ----------------
     subject_data = (
         df.groupby('Subject')['Duration_Minutes']
         .sum()
@@ -55,7 +54,6 @@ def analyze(file):
     )
     plt.xticks(rotation=45)
 
-    # ---------------- TREND GRAPH ----------------
     daily = (
         df.groupby('Date')['Duration_Minutes']
         .sum()
@@ -73,7 +71,6 @@ def analyze(file):
     return summary, fig1, fig2
 
 
-# ---------------- GRADIO UI ----------------
 with gr.Blocks() as app:
 
     gr.Markdown("## 📚 Online Learning Time Analysis")
