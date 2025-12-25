@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import gradio as gr
-import o
+import os
 
 def analyze(file):
 
