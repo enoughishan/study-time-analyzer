@@ -73,7 +73,7 @@ def analyze(file):
 
 with gr.Blocks() as app:
 
-    gr.Markdown("## 📚 Online Learning Time Analysis")
+    gr.Markdown("##  Online Learning Time Analysis")
 
     file_input = gr.File(label="Upload CSV (optional)")
     button = gr.Button("Analyze")
