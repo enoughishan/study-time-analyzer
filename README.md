@@ -4,15 +4,15 @@ A beginner-friendly Python app to analyze study time from CSV files using Pandas
 
 
 
-🚀 Features
+ Features
 
-📂 Upload your own study log CSV file
+Upload your own study log CSV file
 
 📊 View total study hours
 
-📅 Calculate average daily study time
+Calculate average daily study time
 
-🧠 Identify most studied subject
+ Identify most studied subject
 
 📈 Visualize:
 
@@ -20,7 +20,7 @@ Subject-wise study time (Bar Chart)
 
 Daily study trend (Line Chart)
 
-🧑‍🎓 Beginner-friendly logic
+ Beginner-friendly logic
 
 
 
@@ -36,7 +36,7 @@ Gradio – for UI
 
 OS module – for file handling
 
-👨‍💻 Author
+ Author
 
 Ishant Kumar
 Student | Python Learner | AI/ML 3C/ G1/ERP:6605763
