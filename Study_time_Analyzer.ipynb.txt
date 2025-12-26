@@ -1,0 +1,177 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "VqrC2Y2BC4fH"
+      },
+      "outputs": [],
+      "source": [
+        "import pandas as pd\n",
+        "import matplotlib.pyplot as plt\n",
+        "import seaborn as sns\n",
+        "import gradio as gr\n",
+        "import os"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "\n",
+        "\n",
+        "def analyze(file):\n",
+        "\n",
+        "\n",
+        "    if file is not None:\n",
+        "        path = file.name\n",
+        "    else:\n",
+        "        path = \"study_logs.csv\"\n",
+        "\n",
+        "    if not os.path.exists(path):\n",
+        "        return \"CSV file not found\", None, None\n",
+        "\n",
+        "    df = pd.read_csv(path)\n",
+        "    df['Date'] = pd.to_datetime(df['Date'])\n",
+        "\n",
+        "\n",
+        "    total_minutes = df['Duration_Minutes'].sum()\n",
+        "    total_hours = round(total_minutes / 60, 2)\n",
+        "\n",
+        "    avg_daily = round(total_minutes / df['Date'].nunique(), 2)\n",
+        "\n",
+        "    most_subject = (\n",
+        "        df.groupby('Subject')['Duration_Minutes']\n",
+        "        .sum()\n",
+        "        .idxmax()\n",
+        "    )\n",
+        "\n",
+        "    sessions = len(df)\n",
+        "\n",
+        "    summary = (\n",
+        "        f\"Total Study Hours: {total_hours}\\n\"\n",
+        "        f\"Average Daily Study (minutes): {avg_daily}\\n\"\n",
+        "        f\"Most Studied Subject: {most_subject}\\n\"\n",
+        "        f\"Total Sessions: {sessions}\"\n",
+        "    )\n",
+        "\n",
+        "    subject_data = (\n",
+        "        df.groupby('Subject')['Duration_Minutes']\n",
+        "        .sum()\n",
+        "        .reset_index()\n",
+        "    )\n",
+        "\n",
+        "    fig1, ax1 = plt.subplots()\n",
+        "    sns.barplot(\n",
+        "        data=subject_data,\n",
+        "        x='Subject',\n",
+        "        y='Duration_Minutes',\n",
+        "        ax=ax1\n",
+        "    )\n",
+        "    plt.xticks(rotation=45)\n",
+        "\n",
+        "    daily = (\n",
+        "        df.groupby('Date')['Duration_Minutes']\n",
+        "        .sum()\n",
+        "        .reset_index()\n",
+        "    )\n",
+        "\n",
+        "    fig2, ax2 = plt.subplots()\n",
+        "    sns.lineplot(\n",
+        "        data=daily,\n",
+        "        x='Date',\n",
+        "        y='Duration_Minutes',\n",
+        "        ax=ax2\n",
+        "    )\n",
+        "\n",
+        "    return summary, fig1, fig2\n",
+        "\n",
+        "\n",
+        "with gr.Blocks() as app:\n",
+        "\n",
+        "    gr.Markdown(\"##  Online Learning Time Analysis\")\n",
+        "\n",
+        "    file_input = gr.File(label=\"Upload CSV (optional)\")\n",
+        "    button = gr.Button(\"Analyze\")\n",
+        "\n",
+        "    output_text = gr.Textbox(lines=5, label=\"Summary\")\n",
+        "    plot1 = gr.Plot(label=\"Subject Distribution\")\n",
+        "    plot2 = gr.Plot(label=\"Daily Trend\")\n",
+        "\n",
+        "    button.click(\n",
+        "        analyze,\n",
+        "        inputs=file_input,\n",
+        "        outputs=[output_text, plot1, plot2]\n",
+        "    )\n",
+        "\n",
+        "app.launch()"
+      ],
+      "metadata": {
+        "id": "ZMLewaJSC9Te",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 645
+        },
+        "outputId": "909b668d-7a3f-470e-ae31-f7897e71b895"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "It looks like you are running Gradio on a hosted Jupyter notebook, which requires `share=True`. Automatically setting `share=True` (you can turn this off by setting `share=False` in `launch()` explicitly).\n",
+            "\n",
+            "Colab notebook detected. To show errors in colab notebook, set debug=True in launch()\n",
+            "* Running on public URL: https://10791c5d2cd1d52de9.gradio.live\n",
+            "\n",
+            "This share link expires in 1 week. For free permanent hosting and GPU upgrades, run `gradio deploy` from the terminal in the working directory to deploy to Hugging Face Spaces (https://huggingface.co/spaces)\n"
+          ]
+        },
+        {
+          "output_type": "display_data",
+          "data": {
+            "text/plain": [
+              "<IPython.core.display.HTML object>"
+            ],
+            "text/html": [
+              "<div><iframe src=\"https://10791c5d2cd1d52de9.gradio.live\" width=\"100%\" height=\"500\" allow=\"autoplay; camera; microphone; clipboard-read; clipboard-write;\" frameborder=\"0\" allowfullscreen></iframe></div>"
+            ]
+          },
+          "metadata": {}
+        },
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": []
+          },
+          "metadata": {},
+          "execution_count": 7
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "nNxjjHhiI1F7"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
