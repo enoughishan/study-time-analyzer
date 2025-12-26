@@ -5,7 +5,7 @@ Overview
 The Study Time Analyzer is a simple Python-based project that helps students analyze their study habits using a CSV file.
 It calculates useful statistics like total study time, average daily study time, most studied subject, and also displays graphs for better understanding.
 
-This project is designed to be beginner-friendly and is suitable for academic submissions, mini-projects, or learning data analysis with Python.
+This project is designed to be beginner-friendly
 
 ---
 
